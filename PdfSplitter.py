@@ -2,7 +2,7 @@ import csv
 from PyPDF2 import PdfReader, PdfWriter
 
 
-def split_pdf_by_toc(pdf_file, toc_csv,folder):
+def split_pdf_by_toc(pdf_file, toc_csv, folder):
     # Load the table of contents from the CSV file
     toc = []
     with open(toc_csv, 'r', encoding='utf-8-sig') as csv_file:

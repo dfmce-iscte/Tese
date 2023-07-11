@@ -1,97 +1,74 @@
-﻿ GENERAL BACKGROUND;7;7
- PURPOSE OF THE BEST PRACTICES FROM THE 2022 EUROPEAN CAPITAL OF SMART TOURISM COMPETITION;7;7
- THE 4 CATEGORIES OF THE COMPETITION MAKING TOURISM SMART;8;8
- ACCESSIBILITY;8;8
- SUSTAINABILITY;9;9
- DIGITALISATION;9;9
- CULTURAL HERITAGE & CREATIVITY;9;9
- PRESENTING BEST PRACTICES;10;10
- BEST PRACTICES IN ACCESSIBILITY;10;10
- ACCESSIBILITY FOR ALL;10;10
-" Low-income accessibility; Bordeaux; Karlsruhe";10;10
-" Accessible city routes; Bordeaux; Athens; Venice; Padua";11;11
-" Accessible infrastructure; Bordeaux; Dublin; Genoa; Ljubljana; Szczecin; Venice";12;15
-" Accessible beaches; Gdynia; Palma; Ravenna; San Sebastian; València";16;16
-" Diversity & Accessibility; Aarhus";17;17
- ACCESSBILITY FOR INFORMATION;18;18
-" Accessible city guides; Athens; Ljubljana; Florence; Ravenna; València";18;19
-" Accessible tours; Florence";20;20
-" Accessible citizens engagement; Athens; Aarhus";20;20
-" Accessible tourist information offices; Braga; València";21;21
-" Accessibility through digitalisation; Porto; Florence; Gaziantep";22;23
- BEST PRACTICES IN SUSTAINABILITY;24;24
- COMBATTING OR ADAPTING TO CLIMATE CHANGE;24;24
-" Urban biking; Rotterdam; Karlsruhe; Dubrovnik";24;25
-" Sustainable transportation; Izmir; Helsinborg";26;27
-" Alternative means of transportation; Genoa; Karlsruhe; Marbella; Maribor";28;29
-" Sustainable engagement; Athens; Bordeaux; Copenhagen; Helsingborg; Izmir";30;31
-" Sustainable events; Bordeaux; Aarhus; Copenhagen; Genoa; Maribor";32;34
-" Sustainable urban planning; Dubrovnik; Gdynia; Florence; Helsingborg; Rotterdam; València";35;38
-" Sustainable water cycle; Karlsruhe";39;39
-" Tourism taxation; Palma";39;39
- PRESERVING AND ENHANCING THE NATURAL ENVIRONMENT;40;40
-" Natural preservation; Dublin; Maribor; Athens; Palma; València; Venice";40;43
-" Sustainable education; Dublin; Alba Iulia; Copenhagen; Matosinhos; San Sebastian";44;46
-" Sustainable shopping; Maribor; Szczecin; Genoa";47;47
- SPREADING THE FLOW OF TOURISTS;48;48
-" Spreading the flow through technology; Florence";48;48
-" Spreading the flow through urban planning; Porto";49;49
-" Spreading the flow with transportation; Bordeaux; Copenhagen; Dubrovnik";49;50
- BEST PRACTICES IN DIGITALISATION;51;51
- FACILITATING INFORMATION FOR SPECIFIC TARGET GROUPS;51;51
-" Introducing Alipay to attract chinse tourists; Ljubljana";51;51
-" Expanding the visitors’ market with the Toorbee app; Athens";51;51
- COLLECTING INFORMATION FOR SMARTER MANAGEMENT;51;51
-" Smart control rooms; Florence; Venice";51;52
-" Park smarter; Athens; Dubrovnik";53;53
-" Data collection and sharing for a better tourism experience; Aarhus; Dubrovnik; Rotterdam; València; Florence";54;55
- PHYSICAL AND PSYCHOLOGICAL ACCESSIBILITY THROUGH INNOVATION;56;56
-" Accessing museums digitally; Braga; Izmir; Padua";56;56
-" Apps to experience history or sights; Athens; Alba Iulia; Bordeaux; Ljubljana; Copenhagen";57;58
-" Promoting local tourism; Porto; Bordeaux";59;59
-" A digital Bauhaus; Karlsruhe";60;60
-" AR and VR experiences; València; Copenhagen; Dublin";61;61
-" Attracting digital nomads; Dubrovnik";62;62
-" Artificial intelligence initiatives; Gdynia; Karlsruhe";62;62
-" Providing real time info; Helsingborg; Palma; Matosinhos; Porto";63;64
-" Use that bitcoin; Ljubljana";65;65
-" Light installations bring literature to life; Ravenna";66;66
-" Digital Twin City; Rotterdam";67;67
- BEST PRACTICES IN CULTURAL HERITAGE AND CREATIVITY;68;68
- REVIVING TRADITIONAL AND CULTURAL HERITAGE SUSTAINABLY;68;68
-" City walks with a creative touch; Bordeaux";68;68
-" A glimpse into a genius’ mind; Copenhagen";68;68
-" Recovery of cultural heritage; Alba Iulia";69;69
- A cultural platform for all: Copenhagen;69;69
-" Innovative and creative offer exploiting synergies; Dubrovnik";70;70
-" A riverside fortress; Gaziantep";70;70
-" Museums as digital pioneers; Karlsruhe";70;70
-" Lazareti – Creative hub of Dubrovnik; Dubrovnik";71;71
-" An inclusive Emigration Museum; Gdynia";71;71
- COMMUNAL INFRASTRUCTURES;72;72
-" A wine tasting pass; Bordeaux";72;72
-" Dubrovnik Summer Festival; Dubrovnik";73;73
-" Theatre on the beach; Gdynia";73;73
-" A creative city for media arts; Braga";73;73
-" Caravan tourism on the rise; Gaziantep";74;74
-" Altice Forum Braga; Braga";74;74
-" Culture Near You; Dublin";75;75
-" Urban Mediaspace Aarhus; Aarhus";76;76
-" Experiencing Athens like a local; Athens";76;76
- Cross-Border City Walks, Szczecin;76;76
- USAGE OF CULTURAL HERITAGE FOR NEW CREATIVITY;77;77
-" Old becomes new; Bordeaux; Dubrovnik; Dublin; San Sebastian";77;79
-" The Modernism route; Gdynia";80;80
-" Open-air museum; Helsingborg";80;81
-" A chatbot giving guided tours; Copenhagen";82;82
-" Making a museum at 14 Henrietta Street; Dublin";82;82
-" Les Bassins à Flot: the rise of a new tourist district; Bordeaux";83;83
-" Aarhus city of museums and gastronomy; Aarhus";84;84
-" Traditional techniques and contemporary expressions; Florence";84;84
-" GenovaJeans; Genoa";85;85
-" Outdoor Bathing Week; Helsingborg";85;85
-" VR and AR experiences for Plečnik’s architectural works; Ljubljana";86;86
-" Connecting cuisine to culture; Ljubljana";86;86
-" Digitalisation of the World’s Oldest Vine; Maribor";87;87
- Transforming public transport into a sightseeing tour, Porto;87;87
- Publicly accessible art storage facility, Rotterdam;88;88
+﻿4_1_1_1 ;10;10
+4_1_1_2 ;11;12
+4_1_1_3 ;12;15
+4_1_1_4 ;16;17
+4_1_1_5 ;17;17
+4_1_2_1 ;18;20
+4_1_2_2 ;20;20
+4_1_2_3 ;20;21
+4_1_2_4 ;21;22
+4_1_2_5 ;22;23
+4_2_1_1 ;24;26
+4_2_1_2 ;26;28
+4_2_1_3 ;28;30
+4_2_1_4 ;30;32
+4_2_1_5 ;32;35
+4_2_1_6 ;35;39
+4_2_1_7 ;39;39
+4_2_1_8 ;39;39
+4_2_2_1 ;40;44
+4_2_2_2 ;44;47
+4_2_2_3 ;47;48
+4_2_3_1 ;48;49
+4_2_3_2 ;49;49
+4_2_3_3 ;49;50
+4_3_1_1 ;51;51
+4_3_1_2 ;51;51
+4_3_2_1 ;51;53
+4_3_2_2 ;53;54
+4_3_2_3 ;54;56
+4_3_3_1 ;56;57
+4_3_3_2 ;57;59
+4_3_3_3 ;59;60
+4_3_3_4 ;60;60
+4_3_3_5 ;61;62
+4_3_3_6 ;62;62
+4_3_3_7 ;62;63
+4_3_3_8 ;63;65
+4_3_3_9 ;65;65
+4_3_3_10 ;66;66
+4_3_3_11 ;67;67
+4_4_1_1 ;68;68
+4_4_1_2 ;68;69
+4_4_1_3 ;69;69
+4_4_1_4 ;69;69
+4_4_1_5 ;70;70
+4_4_1_6 ;70;70
+4_4_1_7 ;70;71
+4_4_1_8 ;71;71
+4_4_1_9 ;71;71
+4_4_2_1 ;72;72
+4_4_2_2 ;73;73
+4_4_2_3 ;73;73
+4_4_2_4 ;73;74
+4_4_2_5 ;74;74
+4_4_2_6 ;74;75
+4_4_2_7 ;75;75
+4_4_2_8 ;76;76
+4_4_2_9 ;76;76
+4_4_2_10 ;76;77
+4_4_3_1 ;77;80
+4_4_3_2 ;80;80
+4_4_3_3 ;80;81
+4_4_3_4 ;82;82
+4_4_3_5 ;82;83
+4_4_3_6 ;83;84
+4_4_3_7 ;84;84
+4_4_3_8 ;84;84
+4_4_3_9 ;85;85
+4_4_3_10 ;85;86
+4_4_3_11 ;86;86
+4_4_3_12 ;86;86
+4_4_3_13 ;87;87
+4_4_3_14 ;87;87
+4_4_3_15 ;88;88
