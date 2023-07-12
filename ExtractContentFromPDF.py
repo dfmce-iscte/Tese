@@ -7,8 +7,6 @@ import PyPDF2, re
 #         for i in range(0, pdf.getNumPages()):
 
 
-
-
 def find_urls(text):
     regex = r"(https?://\S+)"
     all_url = re.findall(regex, text)
