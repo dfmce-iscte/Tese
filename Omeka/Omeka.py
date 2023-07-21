@@ -8,6 +8,7 @@ SUBJECT_ELEMENT = ["Subject", 49]
 DESCRIPTION_ELEMENT = ["Description", 41]
 CREATOR_ELEMENT = ["Creator", 39]
 URL_ELEMENT = ["URL", 28]
+CONTRIBUTOR_ELEMENT = ["Contributor", 37]
 
 
 def def_elementSet():
