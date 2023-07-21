@@ -41,7 +41,7 @@ def split_pdf_by_toc(pdf_file, toc_csv, folder):
 
 
 ################################################################
-pdf_file = 'Catalogue European.pdf'
+pdf_file = 'Catalogues/Catalogue European.pdf'
 toc_csv = 'UE.csv'
 folder = 'UE'
 
