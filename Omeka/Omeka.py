@@ -34,7 +34,7 @@ def add_element(element_text, typeOfElement):
                'element_set': def_elementSet()}
     else:
         dic = {'html': False, 'text': element_text, 'element': def_element(typeOfElement)}
-    return json.dumps(dic)
+    return dic
 
 
 def get_multipart_to_add_file(item_id, filename, file):
