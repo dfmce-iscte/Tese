@@ -1,5 +1,7 @@
 import subprocess, sys
 
+print("Entrou no LoadLlama.py")
+
 # Define the pip command to run
 cmd = [sys.executable, '-m', 'pip', 'install', 'transformers']
 
