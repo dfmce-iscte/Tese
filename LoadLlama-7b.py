@@ -10,9 +10,9 @@ import subprocess, sys
 
 from transformers import AutoTokenizer, AutoModelForCausalLM
 
-tokenizer = AutoTokenizer.from_pretrained("Llama-2-7b-hf")
+tokenizer = AutoTokenizer.from_pretrained("/home/dcosme/Llama-2-7b-hf")
 print("Loaded tokenizer")
-model = AutoModelForCausalLM.from_pretrained("Llama-2-7b-hf")
+model = AutoModelForCausalLM.from_pretrained("/home/dcosme/Llama-2-7b-hf")
 print("Loaded model")
 
 
