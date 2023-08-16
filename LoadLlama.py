@@ -15,9 +15,10 @@ from transformers import AutoTokenizer, AutoModelForCausalLM
 #
 # login()
 
-tokenizer = AutoTokenizer.from_pretrained("TheBloke/stablecode-instruct-alpha-3b-GPTQ")
+
+tokenizer = AutoTokenizer.from_pretrained("openlm-research/open_llama_3b_v2")
 print("Loaded tokenizer_")
-model = AutoModelForCausalLM.from_pretrained("TheBloke/stablecode-instruct-alpha-3b-GPTQ")
+model = AutoModelForCausalLM.from_pretrained("openlm-research/open_llama_3b_v2")
 print("Loaded model")
 
 
