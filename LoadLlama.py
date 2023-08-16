@@ -15,9 +15,9 @@ from transformers import AutoTokenizer, AutoModelForCausalLM
 
 login()
 
-tokenizer = AutoTokenizer.from_pretrained("/home/dcosme/Llama-2-13b-hf")
+tokenizer = AutoTokenizer.from_pretrained("meta-llama/Llama-2-13b-hf")
 print("Loaded tokenizer")
-model = AutoModelForCausalLM.from_pretrained("/home/dcosme/Llama-2-13b-hf")
+model = AutoModelForCausalLM.from_pretrained("meta-llama/Llama-2-13b-hf")
 print("Loaded model")
 
 
