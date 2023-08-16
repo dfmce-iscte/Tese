@@ -10,9 +10,13 @@ import subprocess, sys
 
 from transformers import AutoTokenizer, AutoModelForCausalLM
 
-tokenizer = AutoTokenizer.from_pretrained("/home/dcosme/Llama-2-7b-hf")
+from huggingface_hub import login
+
+login()
+
+tokenizer = AutoTokenizer.from_pretrained("meta-llama/Llama-2-7b-chat-hf")
 print("Loaded tokenizer")
-model = AutoModelForCausalLM.from_pretrained("/home/dcosme/Llama-2-7b-hf")
+model = AutoModelForCausalLM.from_pretrained("meta-llama/Llama-2-7b-chat-hf")
 print("Loaded model")
 
 
