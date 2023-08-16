@@ -8,16 +8,16 @@ import subprocess, sys
 # # Run the pip command
 # subprocess.run(cmd)
 
-from huggingface_hub import login
+# from huggingface_hub import login
 
 from transformers import AutoTokenizer, AutoModelForCausalLM
 
+#
+# login()
 
-login()
-
-tokenizer = AutoTokenizer.from_pretrained("meta-llama/Llama-2-13b-chat-hf")
-print("Loaded tokenizer")
-model = AutoModelForCausalLM.from_pretrained("meta-llama/Llama-2-13b-chat-hf")
+tokenizer = AutoTokenizer.from_pretrained("TheBloke/stablecode-instruct-alpha-3b-GPTQ")
+print("Loaded tokenizer_")
+model = AutoModelForCausalLM.from_pretrained("TheBloke/stablecode-instruct-alpha-3b-GPTQ")
 print("Loaded model")
 
 
