@@ -19,7 +19,7 @@ import torch
 from transformers import AutoTokenizer, AutoModelForCausalLM
 
 tokenizer = AutoTokenizer.from_pretrained("TheBloke/stablecode-instruct-alpha-3b-GPTQ")
-print("Loaded tokenizer")
+print("Loaded tokenizer_")
 model = AutoModelForCausalLM.from_pretrained("TheBloke/stablecode-instruct-alpha-3b-GPTQ")
 print("Loaded model")
 
