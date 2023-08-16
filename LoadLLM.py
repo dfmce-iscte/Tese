@@ -1,39 +1,26 @@
+import torch
+from transformers import LlamaTokenizer, LlamaForCausalLM
 
-print("Entrou no LoadLlama.py")
-import subprocess, sys
+## v2 models
+model_path = 'openlm-research/open_llama_3b_v2'
+# model_path = 'openlm-research/open_llama_7b_v2'
 
-# # Define the pip command to run
-# cmd = [sys.executable, '-m', 'pip', 'install', 'transformers']
-#
-# # Run the pip command
-# subprocess.run(cmd)
+## v1 models
+# model_path = 'openlm-research/open_llama_3b'
+# model_path = 'openlm-research/open_llama_7b'
+# model_path = 'openlm-research/open_llama_13b'
 
-# from huggingface_hub import login
-
-from transformers import AutoTokenizer, AutoModelForCausalLM
-
-#
-# login()
-
-
-tokenizer = AutoTokenizer.from_pretrained("openlm-research/open_llama_3b_v2")
+tokenizer = LlamaTokenizer.from_pretrained(model_path)
 print("Loaded tokenizer_")
-model = AutoModelForCausalLM.from_pretrained("openlm-research/open_llama_3b_v2")
-print("Loaded model")
+model = LlamaForCausalLM.from_pretrained(
+    model_path, torch_dtype=torch.float16, device_map='auto',
+)
+print("Loaded model_")
 
+prompt = 'Q: What is the largest animal?\nA:'
+input_ids = tokenizer(prompt, return_tensors="pt").input_ids
 
-prompt = "Who is CR7?"
-
-# Tokenize the prompt
-input_ids = tokenizer.encode(prompt, return_tensors='pt')
-print("Loaded encode")
-
-# Generate text from the prompt
-output = model.generate(input_ids, temperature=0.0)
-print("Loaded output")
-
-# Decode the generated text
-generated_text = tokenizer.decode(output[0], skip_special_tokens=True)
-
-# Print the generated text
-print(generated_text)
+generation_output = model.generate(
+    input_ids=input_ids, max_new_tokens=32
+)
+print(tokenizer.decode(generation_output[0]))
