@@ -8,17 +8,19 @@ import subprocess, sys
 # # Run the pip command
 # subprocess.run(cmd)
 
+
+# from huggingface_hub import login
+#
+# import torch
+#
+# login()
+
+# Load model directly
 from transformers import AutoTokenizer, AutoModelForCausalLM
 
-from huggingface_hub import login
-
-import torch
-
-login()
-
-tokenizer = AutoTokenizer.from_pretrained("meta-llama/Llama-2-7b-chat-hf", torch_dtype=torch.float16)
+tokenizer = AutoTokenizer.from_pretrained("TheBloke/orca_mini_v3_13B-GPTQ")
 print("Loaded tokenizer")
-model = AutoModelForCausalLM.from_pretrained("meta-llama/Llama-2-7b-chat-hf", torch_dtype=torch.float16)
+model = AutoModelForCausalLM.from_pretrained("TheBloke/orca_mini_v3_13B-GPTQ")
 print("Loaded model")
 
 
