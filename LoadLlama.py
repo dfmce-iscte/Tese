@@ -8,7 +8,12 @@ import subprocess, sys
 # # Run the pip command
 # subprocess.run(cmd)
 
+from huggingface_hub import login
+
 from transformers import AutoTokenizer, AutoModelForCausalLM
+
+
+login()
 
 tokenizer = AutoTokenizer.from_pretrained("/home/dcosme/Llama-2-13b-hf")
 print("Loaded tokenizer")
