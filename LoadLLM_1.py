@@ -13,7 +13,7 @@ model_path = 'openlm-research/open_llama_3b_v2'
 tokenizer = LlamaTokenizer.from_pretrained(model_path)
 print("Loaded tokenizer_")
 model = LlamaForCausalLM.from_pretrained(
-    model_path, torch_dtype=torch.float16, device_map='auto',
+    model_path, torch_dtype=torch.float16, device_map='auto', low_cpu_mem_usage=False
 )
 print("Loaded model_")
 
