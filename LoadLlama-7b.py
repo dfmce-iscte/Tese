@@ -29,7 +29,7 @@ input_ids = tokenizer.encode(prompt, return_tensors='pt')
 print("Loaded encode")
 
 # Generate text from the prompt
-output = model.generate(input_ids, temperature=0.0)
+output = model.generate(input_ids, temperature=0.0000001)
 print("Loaded output")
 
 # Decode the generated text
