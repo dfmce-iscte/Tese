@@ -12,11 +12,13 @@ from transformers import AutoTokenizer, AutoModelForCausalLM
 
 from huggingface_hub import login
 
+import torch
+
 login()
 
-tokenizer = AutoTokenizer.from_pretrained("meta-llama/Llama-2-7b-chat-hf")
+tokenizer = AutoTokenizer.from_pretrained("meta-llama/Llama-2-7b-chat-hf", torch_dtype=torch.float16)
 print("Loaded tokenizer")
-model = AutoModelForCausalLM.from_pretrained("meta-llama/Llama-2-7b-chat-hf")
+model = AutoModelForCausalLM.from_pretrained("meta-llama/Llama-2-7b-chat-hf", torch_dtype=torch.float16)
 print("Loaded model")
 
 
