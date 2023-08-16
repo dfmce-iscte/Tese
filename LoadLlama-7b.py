@@ -18,10 +18,9 @@ import torch
 # Load model directly
 from transformers import AutoTokenizer, AutoModelForCausalLM
 
-
-tokenizer = AutoTokenizer.from_pretrained("stabilityai/stablecode-instruct-alpha-3b")
+tokenizer = AutoTokenizer.from_pretrained("TheBloke/stablecode-instruct-alpha-3b-GPTQ")
 print("Loaded tokenizer")
-model = AutoModelForCausalLM.from_pretrained("stabilityai/stablecode-instruct-alpha-3b")
+model = AutoModelForCausalLM.from_pretrained("TheBloke/stablecode-instruct-alpha-3b-GPTQ")
 print("Loaded model")
 
 
