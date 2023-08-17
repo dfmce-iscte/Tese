@@ -18,7 +18,8 @@ def def_elementSet():
 
 def def_itemType_hyperlink():
     """"it's also necessary to add the item_type when the element is a URL"""
-    return {'id': 11, 'url': 'https://resettingstt.omeka.net/api/item_types/11', 'name': 'Hyperlink', 'resource': 'item_types'}
+    return {'id': 11, 'url': 'https://resettingstt.omeka.net/api/item_types/11', 'name': 'Hyperlink',
+            'resource': 'item_types'}
 
 
 def def_element(typeOfElement):
@@ -53,6 +54,25 @@ def get_multipart_to_add_file(item_id, filename, file):
     return multipart_data
 
 
+def create_json_item(title, description, creator, contributor, url, tags, collection=None):
+    data = {}
+    if collection is not None:
+        data["collection"] = {"id": collection}
+    data.update({
+        "public": True,
+        "item_type": def_itemType_hyperlink(),
+        "tags": tags,
+        "element_texts": [
+            add_element(title, TITLE_ELEMENT),
+            add_element(description, DESCRIPTION_ELEMENT),
+            add_element(creator, CREATOR_ELEMENT),
+            add_element(contributor, CONTRIBUTOR_ELEMENT),
+            add_element(url, URL_ELEMENT)
+        ]
+    })
+    return json.dumps(data)
+
+
 class Omeka:
 
     def __init__(self, url, api_key):
@@ -61,8 +81,9 @@ class Omeka:
 
     def post(self, endpoint, post_data):
         """Create a new item in Omeka"""
-        print(post_data)
-        print(requests.post(f"{self.url}/{endpoint}?key={self.api_key}", data=post_data))
+        # print(post_data)
+        response = requests.post(f"{self.url}/{endpoint}?key={self.api_key}", data=post_data)
+        print(f"{response}")
 
     def post_file(self, multipart_data):
         """Add a file to an Omeka item"""
