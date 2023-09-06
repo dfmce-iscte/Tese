@@ -40,6 +40,7 @@ def scrape_page(url, depth=0, max_depth=3):
 
     print(webpage_text)
     #
+    #Check if sublevel is not repeated!!!!!!!!!!!!!!!!!
     # # Scrape subleves
     # for link in soup.find_all('a'):
     #     href = link.get('href')
