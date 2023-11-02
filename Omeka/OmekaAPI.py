@@ -20,12 +20,19 @@ SCOTTISH_CATALOGUE = "Technology solutions for tourism businesses in a post-Covi
 EU_CATALOGUE_2022 = "Leading examples of Smart Tourism Practices in Europe (2022)"
 EU_CATALOGUE_2023 = "Leading examples of Smart Tourism Practices in Europe (2023)"
 
-stt_type = {
+STT_TYPE = {
     "id": 21,
     "url": "https://sttobservatory.omeka.net/api/item_types/21",
     "name": "STT",
     "resource": "item_types"
 }
+STT_APPLICATION_TYPE = {
+    "id": 22,
+    "url": "https://sttobservatory.omeka.net/api/item_types/22",
+    "name": "STT Application",
+    "resource": "item_types"
+}
+
 
 
 def def_elementSet():
@@ -62,7 +69,7 @@ def add_element(element_text, typeOfElement):
     return dic
 
 
-def create_json_item(title, description, urls=None, tags=None, creator=None, collection=None,
+def create_json_item(title, description, item_type, urls=None, tags=None, creator=None, collection=None,
                      address=None):
     if tags is None:
         tags = []
@@ -80,7 +87,7 @@ def create_json_item(title, description, urls=None, tags=None, creator=None, col
 
     data.update({
         "public": True,
-        "item_type": stt_type,
+        "item_type": item_type,
         "tags": tags,
         "element_texts": element_texts
     })
@@ -129,13 +136,14 @@ class OmekaAPI:
         """
         return json.loads(requests.get(self.__get_api_url_for_endpoint__(endpoint)).text)
 
-    def post_item(self, title, description, urls=None, tags=None, creator=None, collection=None, address=None):
+    def post_item(self, title, description, item_type, urls=None, tags=None, creator=None, collection=None, address=None):
         """Create a new item in Omeka and returns his ID"""
         response = requests.post(self.__get_api_url_with_token_for_endpoint__(self.items_endpoint),
-                                 data=create_json_item(title, description, urls, tags, creator, collection,
+                                 data=create_json_item(title, description, item_type, urls, tags, creator, collection,
                                                        address))
-        print(f"Post Item{response.reason}")
-        return json.loads(response.text)["id"]
+        item_id = json.loads(response.text)["id"]
+        print(f"\nPost Item for {title}, {item_id}: {response.reason}")
+        return item_id
 
     # def post_item(self, endpoint, post_data):
     #     """Create a new item in Omeka"""
@@ -148,7 +156,7 @@ class OmekaAPI:
         multipart_data = get_multipart_to_add_file(item_id, filename, file)
         response = requests.post(self.__get_api_url_with_token_for_endpoint__(self.files_endpoint),
                                  headers={'Content-Type': multipart_data.content_type}, data=multipart_data)
-        print(f"Post File to Item: {response.reason}")
+        print(f"Post File to Item {item_id}: {response.reason}")
         return response
     # def post_file_for_item(self, multipart_data):
     #     """Add a file to an Omeka item. File can be an image, a PDF, ..."""
@@ -189,12 +197,12 @@ class OmekaAPI:
         }
         response = requests.post(self.__get_api_url_with_token_for_endpoint__(self.geolocations_endpoint),
                                  data=json.dumps(data))
-        print(f"Post Geolocation: {response.reason}")
+        print(f"Post Geolocation to Item {item_id}: {response.reason}")
         return response, json.dumps(data)
 
     def delete_item(self, item_id):
         response = requests.delete(self.__get_api_url_with_token_for_endpoint__(f"{self.items_endpoint}/{item_id}"))
-        print(f"Delete Item {item_id}: {response.content}")
+        print(f"Delete Item {item_id}: {response.reason}")
         return response
 
     def delete_all_items_from_a_collection(self, collection_name):
