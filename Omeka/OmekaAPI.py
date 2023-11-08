@@ -145,12 +145,6 @@ class OmekaAPI:
         print(f"\nPost Item for {title}, {item_id}: {response.reason}")
         return item_id
 
-    # def post_item(self, endpoint, post_data):
-    #     """Create a new item in Omeka"""
-    #     response = requests.post(self.__get_api_url_with_token_for_endpoint__(endpoint), data=post_data)
-    #     print(f"Post Item{response.reason}")
-    #     return json.loads(response.text)
-
     def post_file_for_item(self, item_id, filename, file):
         """Add a file to an Omeka item. File can be an image, a PDF, ..."""
         multipart_data = get_multipart_to_add_file(item_id, filename, file)
@@ -158,13 +152,6 @@ class OmekaAPI:
                                  headers={'Content-Type': multipart_data.content_type}, data=multipart_data)
         print(f"Post File to Item {item_id}: {response.reason}")
         return response
-    # def post_file_for_item(self, multipart_data):
-    #     """Add a file to an Omeka item. File can be an image, a PDF, ..."""
-    #     # full_url = f"{self.url}/files?key={self.api_key}"
-    #     response = requests.post(self.__get_api_url_with_token_for_endpoint__(self.files_endpoint),
-    #                              headers={'Content-Type': multipart_data.content_type}, data=multipart_data)
-    #     print(f"Post File to Item: {response.reason}")
-    #     return response
 
     def get_collection_id_by_name(self, collection_name):
         # If it returns -1, it means that the collection doesn't exist
