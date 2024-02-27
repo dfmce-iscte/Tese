@@ -1,0 +1,674 @@
+{
+    "TOURISM CONSULTANCY SERVICES": {
+        "2023": 312,
+        "2022": 218
+    },
+    "TOURISM INTELLIGENCE PLATFORM": {
+        "2023": 190,
+        "2022": 124
+    },
+    "GESTDOC360": {
+        "2023": 20,
+        "2022": 12
+    },
+    "CO-APS": {
+        "2023": 26,
+        "2022": 16
+    },
+    "TOURIST GUIDE APPS WITH AUGMENTED REALITY": {
+        "2023": 34,
+        "2022": 17
+    },
+    "AVISA APPLICATION: MOBILE APP FOR CITIZEN PARTICIPATION FOR REPORTING URBAN ISSUES": {
+        "2023": 35,
+        "2022": 19
+    },
+    "DEVELOPMENT OF TOURISM APPS. APP FOR THE TOURISM DEVELOPMENT OF AN AREA": {
+        "2023": 36,
+        "2022": 20
+    },
+    "DEVELOPMENT OF VIRTUAL ASSISTANTS": {
+        "2023": 37,
+        "2022": 21
+    },
+    "DEVELOPMENT OF VIRTUAL IMMERSIVE CONTENT": {
+        "2023": 38,
+        "2022": 22
+    },
+    "NADIA DTI": {
+        "2023": 39,
+        "2022": 23
+    },
+    "APP&TOWN COMPAGNON": {
+        "2023": 40,
+        "2022": 127
+    },
+    "QRED NOMENCLATOR SMART POSTERS": {
+        "2023": 44,
+        "2022": 164
+    },
+    "WANDO EXPERIENCES": {
+        "2023": 53,
+        "2022": 24
+    },
+    "STRATEGY AND VALUE PROPOSITION FOR SMART DESTINATIONS": {
+        "2023": 68,
+        "2022": 25
+    },
+    "TOURISM INTELLIGENCE TO OPTIMISE THE MODEL": {
+        "2023": 69,
+        "2022": 26
+    },
+    "REGIONAL MARKETING PLAN": {
+        "2023": 70,
+        "2022": 27
+    },
+    "ACCESSIBILITY CERTIFICATION": {
+        "2023": 72,
+        "2022": 28
+    },
+    "ACCESSIBILITY STUDY IN EXISTING BUILDINGS": {
+        "2023": 73,
+        "2022": 30
+    },
+    "ACCESSIBILITY STUDY IN THE PROJECT PHASE": {
+        "2023": 74,
+        "2022": 29
+    },
+    "CHATBOT TARO": {
+        "2023": 76,
+        "2022": 31
+    },
+    "TOURISM CHATBOT": {
+        "2023": 77,
+        "2022": 32
+    },
+    "CREATING AND SHARING CONTENT FOR TOURIST DESTINATIONS": {
+        "2023": 79,
+        "2022": 33
+    },
+    "WEB DEVELOPMENT": {
+        "2023": 80,
+        "2022": 34
+    },
+    "BRAND POSITIONING AND DEVELOPMENT": {
+        "2023": 81,
+        "2022": 35
+    },
+    "URBAN ACCESSIBILITY MANAGER": {
+        "2023": 83,
+        "2022": 37
+    },
+    "MY PROVINCE, YOUR DESTINATION": {
+        "2023": 84,
+        "2022": 38
+    },
+    "TOURIST INFORMATION SEGMENTATION PLATFORM": {
+        "2023": 85,
+        "2022": 39
+    },
+    "DF BEHAVIOUR": {
+        "2023": 86,
+        "2022": 41
+    },
+    "DF CAMPAIGNS": {
+        "2023": 87,
+        "2022": 42
+    },
+    "DF CAPACITY CONTROL": {
+        "2023": 88,
+        "2022": 43
+    },
+    "TUROBSERVER SMART TOURISM REPORTS": {
+        "2023": 89,
+        "2022": 44
+    },
+    "BUS OPERATIVE": {
+        "2023": 92,
+        "2022": 47
+    },
+    "HIGH-RESOLUTION DIGITAL TOURIST VIEWPOINTS": {
+        "2023": 94,
+        "2022": 48
+    },
+    "NUBART AUDIO GUIDE": {
+        "2023": 95,
+        "2022": 49
+    },
+    "DINYTRACK": {
+        "2023": 99,
+        "2022": 55
+    },
+    "CONSULTANCY SERVICES FOR SMART CITIES AND COMPETITIVE TERRITORIES": {
+        "2023": 106,
+        "2022": 59
+    },
+    "EQUALITAS ACCESSIBILITY. ACCESSIBLE TOURISM CONSULTANCY": {
+        "2023": 107,
+        "2022": 60
+    },
+    "EQUALITAS VITAE ACCESSIBLE TOURISM. ACCESSIBLE TOURISM PROMOTION": {
+        "2023": 108,
+        "2022": 61
+    },
+    "EUROPEAN INCLUSIVE TOURISM INSTITUTE. ACCESSIBLE TOURISM TRAINING": {
+        "2023": 110,
+        "2022": 62
+    },
+    "360 IT SERVICES": {
+        "2023": 112,
+        "2022": 63
+    },
+    "INSUIT": {
+        "2023": 113,
+        "2022": 64
+    },
+    "COGITO INTELLIGENCE PLATFORM (CIP)": {
+        "2023": 115,
+        "2022": 65
+    },
+    "SMART HERITAGE MANAGEMENT": {
+        "2023": 118,
+        "2022": 67
+    },
+    "SMART MANAGEMENT OF CULTURAL TOURISM": {
+        "2023": 119,
+        "2022": 68
+    },
+    "SAFE VISITOR MANAGEMENT": {
+        "2023": 120,
+        "2022": 69
+    },
+    "FS LOYALTY-DISCOVERY": {
+        "2023": 121,
+        "2022": 70
+    },
+    "FS OSINT": {
+        "2023": 122,
+        "2022": 71
+    },
+    "SMARTGRAPH": {
+        "2023": 123,
+        "2022": 72
+    },
+    "GECOR": {
+        "2023": 124,
+        "2022": 73
+    },
+    "BIOTECHNOLOGY FOR BEACHES": {
+        "2023": 125,
+        "2022": 74
+    },
+    "ECOTOTEM": {
+        "2023": 126,
+        "2022": 75
+    },
+    "LIQUID PHOTOCATALYSIS NANOLAYER 2 YEARS COVID FREE": {
+        "2023": 127,
+        "2022": 76
+    },
+    "SMART ODOR WASTE": {
+        "2023": 128,
+        "2022": 77
+    },
+    "TOURIST VISIT APPS AND WEB APPS": {
+        "2023": 131,
+        "2022": 78
+    },
+    "CONTENT DIGITALISATION": {
+        "2023": 132,
+        "2022": 79
+    },
+    "DESTINATION MANAGEMENT TOOLS": {
+        "2023": 133,
+        "2022": 80
+    },
+    "DESTINATION DIGITAL MARKETING TOOLS": {
+        "2023": 134,
+        "2022": 81
+    },
+    "TOURIST PORTALS AND PLANNERS": {
+        "2023": 135,
+        "2022": 82
+    },
+    "DIGITAL TOURISM TREASURE HUNT": {
+        "2023": 230,
+        "2022": 152
+    },
+    "HI POINT, HEALTH INNOVATION POINT": {
+        "2023": 139,
+        "2022": 83
+    },
+    "INFO POINT": {
+        "2023": 140,
+        "2022": 84
+    },
+    "SMART SPOT - AIR QUALITY, NOISE AND PEOPLE FLOW MONITORING SENSOR": {
+        "2023": 141,
+        "2022": 85
+    },
+    "ICLOUDCOMPLIANCE": {
+        "2023": 143,
+        "2022": 86
+    },
+    "INTERACTIVE VIRTUAL TOURIST OFFICE": {
+        "2023": 144,
+        "2022": 87
+    },
+    "REAL WEB": {
+        "2023": 145,
+        "2022": 88
+    },
+    "CSV ANALYSIS FOR TOURISM PROJECTS. MATERIALITY AND STAKEHOLDER ANALYSIS": {
+        "2023": 150,
+        "2022": 89
+    },
+    "ANALYSING TOURIST DEMAND THROUGH BIG DATA": {
+        "2023": 151,
+        "2022": 90
+    },
+    "VIRTUAL COMPETITIVENESS, INNOVATION AND SUSTAINABILITY TRAINING CENTRE": {
+        "2023": 152,
+        "2022": 91
+    },
+    "DESIGN AND DEVELOPMENT OF TOURISM PRODUCTS (AND TOURIST PRODUCT CLUBS)": {
+        "2023": 153,
+        "2022": 92
+    },
+    "SUSTAINABLE DEVELOPMENT PROFILE (SDG)": {
+        "2023": 155,
+        "2022": 94
+    },
+    "VIEWTRAVEL": {
+        "2023": 159,
+        "2022": 97
+    },
+    "Q FOR TOURISM QUALITY": {
+        "2023": 160,
+        "2022": 98
+    },
+    "SAFE TOURISM CERTIFIED": {
+        "2023": 161,
+        "2022": 99
+    },
+    "INFOTOURIST OFFICE": {
+        "2023": 163,
+        "2022": 100
+    },
+    "INFOTOURIST-NET": {
+        "2023": 164,
+        "2022": 101
+    },
+    "TECHNICAL ASSISTANCE FOR DEVELOPING A TOURIST DESTINATION SUSTAINABILITY PLAN": {
+        "2023": 165,
+        "2022": 102
+    },
+    "TRAINING AND WORKSHOPS FOR SMART TOURIST DESTINATION MANAGERS": {
+        "2023": 166,
+        "2022": 103
+    },
+    "STANDARDISED TOURISM INTELLIGENCE SYSTEM": {
+        "2023": 169,
+        "2022": 106
+    },
+    "STANDARDISED INTEGRATED MANAGEMENT SYSTEM FOR SMART DESTINATIONS": {
+        "2023": 170,
+        "2022": 107
+    },
+    "RELAY BOX - REMOTE CONTROL VIA LORAWAN NETWORKS": {
+        "2023": 174,
+        "2022": 110
+    },
+    "WATERSENS": {
+        "2023": 176,
+        "2022": 112
+    },
+    "OUTDOOR DIGITAL TOTEMS TO SUPPORT TOURIST OFFICES": {
+        "2023": 181,
+        "2022": 117
+    },
+    "PHONE BOX TURNED TOURIST OFFICE": {
+        "2023": 182,
+        "2022": 114
+    },
+    "TOURISM CONSULTANCY TO DRAFT AND IMPLEMENT TOURISM SUSTAINABILITY PLANS": {
+        "2023": 184,
+        "2022": 118
+    },
+    "CAPACITY CONTROL": {
+        "2023": 292,
+        "2022": 201
+    },
+    "MEASURING CO": {
+        "2023": 197,
+        "2022": 131
+    },
+    "SMART WASTE MANAGEMENT": {
+        "2023": 199,
+        "2022": 130
+    },
+    "LORAWAN NETWORKS": {
+        "2023": 200,
+        "2022": 133
+    },
+    "ECOSAT": {
+        "2023": 204,
+        "2022": 134
+    },
+    "MYSTREETBOOK": {
+        "2023": 214,
+        "2022": 136
+    },
+    "KAIROS365 SCH \u2013 BOOKING, APPOINTMENT AND TICKET SALES PLATFORM": {
+        "2023": 215,
+        "2022": 137
+    },
+    "DINAMIC URBAN COMMERCE (DUC)": {
+        "2023": 218,
+        "2022": 140
+    },
+    "DYNAMIC HOTEL & DESTINATION EMAIL MARKETING MANAGER": {
+        "2023": 220,
+        "2022": 142
+    },
+    "ARTIFICIAL INTELLIGENCE PLATFORM AND KPI MONITORING WITH PREDICTIVE CAPABILITIES": {
+        "2023": 223,
+        "2022": 145
+    },
+    "VIRTUAL TOURISM ASSISTANTS (CHATBOTS) BASED ON ARTIFICIAL INTELLIGENCE": {
+        "2023": 224,
+        "2022": 146
+    },
+    "OPTIMIZADATA ANALYTICS": {
+        "2023": 225,
+        "2022": 147
+    },
+    "OPTIMIZADATA SOCIAL NETWORK BAROMETER": {
+        "2023": 226,
+        "2022": 148
+    },
+    "OPTIMIZADATA INFLUENCERS": {
+        "2023": 227,
+        "2022": 149
+    },
+    "INTEGRATED TOURISM EXPERIENCES": {
+        "2023": 228,
+        "2022": 150
+    },
+    "GAMIFIED MOBILE GUIDE": {
+        "2023": 229,
+        "2022": 151
+    },
+    "SMART DATA PLATFORM": {
+        "2023": 231,
+        "2022": 153
+    },
+    "ACCESSIBLE PDF ADAPTATION": {
+        "2023": 233,
+        "2022": 156
+    },
+    "PUNTODIS COVID-19 CATALOGUE": {
+        "2023": 234,
+        "2022": 157
+    },
+    "CHEF'S VOICE: A NETWORK OF ACCESSIBLE RESTAURANTS": {
+        "2023": 235,
+        "2022": 158
+    },
+    "CONVERSION OF TEXTS TO EASY READ FORMAT": {
+        "2023": 236,
+        "2022": 159
+    },
+    "MAP'S VOICE. ACCESSIBLE INFORMATION POINT": {
+        "2023": 238,
+        "2022": 160
+    },
+    "MUSEUM'S VOICE. UNIVERSAL ART": {
+        "2023": 239,
+        "2022": 161
+    },
+    "VIRTUALISATION: 3D MODELLING AND PRINTING": {
+        "2023": 240,
+        "2022": 162
+    },
+    "INTERACTIVE GUIDED TOURISM APP": {
+        "2023": 248,
+        "2022": 166
+    },
+    "INFOPANEL AR": {
+        "2023": 249,
+        "2022": 167
+    },
+    "IMMERSIVE VR": {
+        "2023": 251,
+        "2022": 169
+    },
+    "VIRTUAL REALITY WALKS": {
+        "2023": 252,
+        "2022": 170
+    },
+    "TOURISM CONSULTANCY AND TRAINING": {
+        "2023": 260,
+        "2022": 58
+    },
+    "SIGO INCIDENTS": {
+        "2023": 263,
+        "2022": 176
+    },
+    "CUSTOMISABLE DESTINATION GUIDES": {
+        "2023": 271,
+        "2022": 184
+    },
+    "TRIP PLANNER": {
+        "2023": 272,
+        "2022": 185
+    },
+    "TOUCH SCREEN TOURIST INFORMATION KIOSKS": {
+        "2023": 273,
+        "2022": 186
+    },
+    "CONSULTANCY SERVICES FOR SUSTAINABLE SMART DESTINATIONS": {
+        "2023": 274,
+        "2022": 187
+    },
+    "TOURISM INTELLIGENCE SYSTEM FOR SMART DESTINATIONS": {
+        "2023": 282,
+        "2022": 189
+    },
+    "BIG DATA ANALYTICS FOR THE LEISURE AND TOURISM SECTOR": {
+        "2023": 283,
+        "2022": 190
+    },
+    "SMART LIGHTING": {
+        "2023": 285,
+        "2022": 193
+    },
+    "SMART BUOY": {
+        "2023": 286,
+        "2022": 194
+    },
+    "AIR QUALITY": {
+        "2023": 287,
+        "2022": 195
+    },
+    "NOISE QUALITY": {
+        "2023": 288,
+        "2022": 196
+    },
+    "URBAN GOODS DISTRIBUTION LOADING AND UNLOADING AREA": {
+        "2023": 289,
+        "2022": 197
+    },
+    "DIGITAL CONTENT": {
+        "2023": 290,
+        "2022": 198
+    },
+    "PEOPLE AND BICYCLE COUNTER": {
+        "2023": 291,
+        "2022": 199
+    },
+    "TOURISM DATA": {
+        "2023": 293,
+        "2022": 202
+    },
+    "WASTE MANAGEMENT": {
+        "2023": 296,
+        "2022": 203
+    },
+    "SHIFT MANAGER": {
+        "2023": 297,
+        "2022": 204
+    },
+    "RESKILLING PLATFORM AND TRAINING ITINERARY": {
+        "2023": 299,
+        "2022": 207
+    },
+    "THINKING CITY PLATFORM": {
+        "2023": 300,
+        "2022": 208
+    },
+    "SMART IRRIGATION": {
+        "2023": 301,
+        "2022": 209
+    },
+    "SMART TOURIST ROUTES": {
+        "2023": 302,
+        "2022": 210
+    },
+    "SMART BUILDING": {
+        "2023": 305,
+        "2022": 212
+    },
+    "SMART PARKING": {
+        "2023": 306,
+        "2022": 213
+    },
+    "SMART HERITAGE": {
+        "2023": 307,
+        "2022": 214
+    },
+    "SMART WATER METERING": {
+        "2023": 308,
+        "2022": 215
+    },
+    "DIGITAL TOURIST CARD": {
+        "2023": 309,
+        "2022": 216
+    },
+    "URBAN TOTEM DISPLAYS": {
+        "2023": 310,
+        "2022": 217
+    },
+    "INSIGHTS-X FOR DESTINATIONS": {
+        "2023": 313,
+        "2022": 219
+    },
+    "TOURISMATIC": {
+        "2023": 314,
+        "2022": 220
+    },
+    "VISITBOT": {
+        "2023": 315,
+        "2022": 221
+    },
+    "SMART DESTINATION SELF-DIAGNOSIS": {
+        "2023": 316,
+        "2022": 222
+    },
+    "CLEVERUS": {
+        "2023": 317,
+        "2022": 223
+    },
+    "HI+CARD": {
+        "2023": 318,
+        "2022": 224
+    },
+    "ONEPASS": {
+        "2023": 319,
+        "2022": 225
+    },
+    "COMTUR": {
+        "2023": 320,
+        "2022": 226
+    },
+    "GESTUR": {
+        "2023": 321,
+        "2022": 227
+    },
+    "TRUESOLUTIONS": {
+        "2023": 327,
+        "2022": 231
+    },
+    "EXPERIENCES HUB": {
+        "2023": 328,
+        "2022": 232
+    },
+    "SMART DESTINATION REPUTATION ANALYSIS": {
+        "2023": 330,
+        "2022": 233
+    },
+    "TOURIST DEMAND ANTICIPATION: OCCUPANCY RATE": {
+        "2023": 331,
+        "2022": 234
+    },
+    "UNDERSTANDING TOURISTS": {
+        "2023": 332,
+        "2022": 235
+    },
+    "GEOLOCATING TOURISTS": {
+        "2023": 333,
+        "2022": 236
+    },
+    "URBIM": {
+        "2023": 335,
+        "2022": 238
+    },
+    "FASTPRK: MANAGEMENT OF PARKING SPACES RESERVED FOR CHARGING ELECTRIC VEHICLES": {
+        "2023": 336,
+        "2022": 239
+    },
+    "FASTPRK: MANAGEMENT OF PARKING SPACES AND AREAS RESERVED FOR LOADING AND UNLOADING OPERATIONS": {
+        "2023": 338,
+        "2022": 241
+    },
+    "FASTPRK: OUTDOOR URBAN PARKING GUIDING SYSTEM": {
+        "2023": 343,
+        "2022": 246
+    },
+    "TOUCHFREE INTERACTIVITY": {
+        "2023": 344,
+        "2022": 247
+    },
+    "SENSITIVESPACE": {
+        "2023": 345,
+        "2022": 248
+    },
+    "VIDEOENPLAY": {
+        "2023": 346,
+        "2022": 249
+    },
+    "VISITOR EXPERIENCE AND DESTINATION TOURISM REPUTATION MONITOR": {
+        "2023": 348,
+        "2022": 250
+    },
+    "TRABITAT": {
+        "2023": 354,
+        "2022": 254
+    },
+    "QUAMTRA SMART WASTE MANAGEMENT": {
+        "2023": 356,
+        "2022": 256
+    },
+    "WELIGHT SMART LIGHTING": {
+        "2023": 357,
+        "2022": 257
+    },
+    "WESAVE ENERGY EFFICIENCY": {
+        "2023": 358,
+        "2022": 258
+    },
+    "IBEAKEN": {
+        "2023": 360,
+        "2022": 260
+    }
+}

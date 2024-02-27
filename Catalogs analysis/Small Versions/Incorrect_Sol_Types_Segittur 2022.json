@@ -1,0 +1,23 @@
+{
+    "Visual": "Visual / Virtual Environments",
+    "Other":  "Other Hardware / Software Solutions",
+    "Marketing": "Marketing / Promotion / Sales",
+    "Data": "Data Analytics Systems (Big data, BI, etc.)",
+    "App": "App Development",
+    "Chatbot": "Chatbot / Natural Language Processing",
+    "Smart": "Smart Destination / Smart City Platform",
+    "Technological":  "Technological Consultancy",
+    "Tourism_Consultancy": "Tourism Consultancy",
+    "Website": "Website Design and Development",
+    "Geographic": "Geographic Information Systems (GIS)",
+    "IoT": "IoT (Internet of Things) / Wearables",
+    "Energy": "Efficient Management: Energy",
+    "Communication": "Communication Platforms / Training / Webinars",
+    "Semantic": "Semantic Analysis / Active Listening",
+    "Artificial": "Artificial Intelligence",
+    "Water": "Efficient Management: Water",
+    "Air_quality": "Efficient Management: Air quality",
+    "Waste": "Efficient Management: Waste",
+    "Graphic": "Graphic Design / Infographics",
+    "Wi-Fi": "Wi-Fi / Mi-Fi (mobile Wi-Fi)"
+}
