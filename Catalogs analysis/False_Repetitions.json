@@ -55,6 +55,18 @@
             {
                 "other_solution": "SMART OFFICE DTI",
                 "Segittur 2023": 172
+            },
+            {
+                "other_solution": "Standardized Tourist Intelligence System",
+                "Adestic V1": 14
+            },
+            {
+                "other_solution": "CYCLOPS DTI",
+                "Adestic V1": 15
+            },
+            {
+                "other_solution": "SMART OFFICE DTI",
+                "Adestic V1": 15
             }
         ]
     },
@@ -80,6 +92,14 @@
             {
                 "other_solution": "STANDARDISED INTEGRATED MANAGEMENT SYSTEM FOR SMART DESTINATIONS",
                 "Segittur 2023": 171
+            },
+            {
+                "other_solution": "Standardized Tourist Intelligence System",
+                "Adestic V1": 14
+            },
+            {
+                "other_solution": "CYCLOPS DTI",
+                "Adestic V1": 15
             }
         ]
     },
@@ -496,6 +516,698 @@
             {
                 "other_solution": "DESTINATION STS",
                 "Segittur 2023": 352
+            }
+        ]
+    },
+    "HIGH-RESOLUTION DIGITAL TOURIST VIEWPOINTS": {
+        "Segittur 2023": 95,
+        "others_solutions": [
+            {
+                "other_solution": "360\u00ba Product Photography",
+                "Adestic V1": 11
+            },
+            {
+                "other_solution": "Immersive Hotel",
+                "Adestic V2": 12
+            }
+        ]
+    },
+    "TECHNICAL ASSISTANCE FOR DEVELOPING A TOURIST DESTINATION SUSTAINABILITY PLAN": {
+        "Segittur 2023": 166,
+        "others_solutions": [
+            {
+                "other_solution": "Standardized Tourist Intelligence System",
+                "Adestic V1": 14
+            },
+            {
+                "other_solution": "CYCLOPS DTI",
+                "Adestic V1": 15
+            },
+            {
+                "other_solution": "SMART OFFICE DTI",
+                "Adestic V1": 15
+            }
+        ]
+    },
+    "TRAINING AND WORKSHOPS FOR SMART TOURIST DESTINATION MANAGERS": {
+        "Segittur 2023": 167,
+        "others_solutions": [
+            {
+                "other_solution": "Standardized Tourist Intelligence System",
+                "Adestic V1": 14
+            },
+            {
+                "other_solution": "CYCLOPS DTI",
+                "Adestic V1": 15
+            },
+            {
+                "other_solution": "SMART OFFICE DTI",
+                "Adestic V1": 15
+            }
+        ]
+    },
+    "MASTER PLAN FOR THE CREATION OF\u00a0A SMART DESTINATION": {
+        "Segittur 2023": 169,
+        "others_solutions": [
+            {
+                "other_solution": "Standardized Tourist Intelligence System",
+                "Adestic V1": 14
+            },
+            {
+                "other_solution": "CYCLOPS DTI",
+                "Adestic V1": 15
+            },
+            {
+                "other_solution": "SMART OFFICE DTI",
+                "Adestic V1": 15
+            }
+        ]
+    },
+    "STANDARDISED TOURISM INTELLIGENCE SYSTEM": {
+        "Segittur 2023": 170,
+        "others_solutions": [
+            {
+                "other_solution": "CYCLOPS DTI",
+                "Adestic V1": 15
+            },
+            {
+                "other_solution": "SMART OFFICE DTI",
+                "Adestic V1": 15
+            }
+        ]
+    },
+    "STANDARDISED INTEGRATED MANAGEMENT SYSTEM FOR SMART DESTINATIONS": {
+        "Segittur 2023": 171,
+        "others_solutions": [
+            {
+                "other_solution": "Standardized Tourist Intelligence System",
+                "Adestic V1": 14
+            },
+            {
+                "other_solution": "SMART OFFICE DTI",
+                "Adestic V1": 15
+            },
+            {
+                "other_solution": "CYCLOPS DTI",
+                "Adestic V1": 15
+            }
+        ]
+    },
+    "VISUALISATION OF THE SMART DESTINATION AND TOURISM INTELLIGENCE SYSTEM": {
+        "Segittur 2023": 173,
+        "others_solutions": [
+            {
+                "other_solution": "Standardized Tourist Intelligence System",
+                "Adestic V1": 14
+            },
+            {
+                "other_solution": "CYCLOPS DTI",
+                "Adestic V1": 15
+            },
+            {
+                "other_solution": "SMART OFFICE DTI",
+                "Adestic V1": 15
+            }
+        ]
+    },
+    "OPTIMIZADATA ANALYTICS": {
+        "Segittur 2023": 226,
+        "others_solutions": [
+            {
+                "other_solution": "EventData",
+                "Adestic V1": 19
+            },
+            {
+                "other_solution": "Seeketing - Mobility and user behavior",
+                "Adestic V1": 20
+            },
+            {
+                "other_solution": "EventData",
+                "Adestic V2": 26
+            },
+            {
+                "other_solution": "Seeketing - Mobility and user behavior",
+                "Adestic V2": 27
+            }
+        ]
+    },
+    "OPTIMIZADATA SOCIAL NETWORK BAROMETER": {
+        "Segittur 2023": 227,
+        "others_solutions": [
+            {
+                "other_solution": "Optimizadata Analytics",
+                "Adestic V1": 19
+            },
+            {
+                "other_solution": "EventData",
+                "Adestic V1": 19
+            },
+            {
+                "other_solution": "Seeketing - Mobility and user behavior",
+                "Adestic V1": 20
+            },
+            {
+                "other_solution": "Optimizadata Analytics",
+                "Adestic V2": 26
+            },
+            {
+                "other_solution": "EventData",
+                "Adestic V2": 26
+            },
+            {
+                "other_solution": "Seeketing - Mobility and user behavior",
+                "Adestic V2": 27
+            }
+        ]
+    },
+    "CONSULTANCY SERVICES FOR SUSTAINABLE SMART DESTINATIONS": {
+        "Segittur 2023": 275,
+        "others_solutions": [
+            {
+                "other_solution": "ICT and Sustainability Improvement Plans",
+                "Adestic V1": 28
+            },
+            {
+                "other_solution": "Technical support for the structuring of tourist experiences and their subsequent communication and marketing",
+                "Adestic V1": 29
+            },
+            {
+                "other_solution": "DTI Smart Tourism Master Plans",
+                "Adestic V1": 28
+            },
+            {
+                "other_solution": "ICT and Sustainability Improvement Plans",
+                "Adestic V2": 37
+            },
+            {
+                "other_solution": "Technical support for the structuring of tourist experiences and their subsequent communication and marketing",
+                "Adestic V2": 38
+            }
+        ]
+    },
+    "INFOTOURIST OFFICE": {
+        "Segittur 2023": 164,
+        "others_solutions": [
+            {
+                "other_solution": "Infotourist API",
+                "Adestic V1": 14
+            },
+            {
+                "other_solution": "Infotourist NET",
+                "Adestic V2": 18
+            }
+        ]
+    },
+    "INFOTOURIST-NET": {
+        "Segittur 2023": 165,
+        "others_solutions": [
+            {
+                "other_solution": "Infotourist Office",
+                "Adestic V1": 13
+            },
+            {
+                "other_solution": "Infotourist API",
+                "Adestic V1": 14
+            },
+            {
+                "other_solution": "Infotourist O\ufb03 ce",
+                "Adestic V2": 17
+            }
+        ]
+    },
+    "CICLOPS DTI SMART DESTINATION MANAGEMENT AND MONITORING SOFTWARE": {
+        "Segittur 2023": 168,
+        "others_solutions": [
+            {
+                "other_solution": "Standardized Tourist Intelligence System",
+                "Adestic V1": 14
+            },
+            {
+                "other_solution": "SMART OFFICE DTI",
+                "Adestic V1": 15
+            },
+            {
+                "other_solution": "CYCLOPS DTI",
+                "Adestic V1": 15
+            }
+        ]
+    },
+    "OPTIMIZADATA INFLUENCERS": {
+        "Segittur 2023": 228,
+        "others_solutions": [
+            {
+                "other_solution": "Optimizadata Analytics",
+                "Adestic V1": 19
+            },
+            {
+                "other_solution": "EventData",
+                "Adestic V1": 19
+            },
+            {
+                "other_solution": "Seeketing - Mobility and user behavior",
+                "Adestic V1": 20
+            },
+            {
+                "other_solution": "Optimizadata Analytics",
+                "Adestic V2": 26
+            },
+            {
+                "other_solution": "EventData",
+                "Adestic V2": 26
+            },
+            {
+                "other_solution": "Seeketing - Mobility and user behavior",
+                "Adestic V2": 27
+            }
+        ]
+    },
+    "UNBLOCK: THE SMART SIDE OF THE\u00a0CITY": {
+        "Segittur 2023": 335,
+        "others_solutions": [
+            {
+                "other_solution": "Smart QR on any medium and space",
+                "Adestic V1": 34
+            },
+            {
+                "other_solution": "Management for spaces and cities",
+                "Adestic V1": 34
+            },
+            {
+                "other_solution": "Qualified data platform",
+                "Adestic V1": 35
+            },
+            {
+                "other_solution": "Smart QR on any medium and space",
+                "Adestic V2": 42
+            },
+            {
+                "other_solution": "Management for spaces and cities",
+                "Adestic V2": 42
+            },
+            {
+                "other_solution": "Qualified data platform",
+                "Adestic V2": 43
+            }
+        ]
+    },
+    "360\u00ba TOURISM PRODUCTS": {
+        "Segittur 2022": 19,
+        "others_solutions": [
+            {
+                "other_solution": "TOURIST GUIDE APPS WITH AUGMENTED REALITY",
+                "Segittur 2023": 35
+            },
+            {
+                "other_solution": "Virtual, Augmented and Extended Reality Projects",
+                "Adestic V2": 6
+            },
+            {
+                "other_solution": "OK my hotel",
+                "Adestic V2": 7
+            },
+            {
+                "other_solution": "Internet of Tourism",
+                "Adestic V2": 7
+            }
+        ]
+    },
+    "DINYCONT ": {
+        "Segittur 2022": 54,
+        "others_solutions": [
+            {
+                "other_solution": "DINYPARK",
+                "Segittur 2023": 98
+            },
+            {
+                "other_solution": "DINYTRACK",
+                "Segittur 2023": 100
+            }
+        ]
+    },
+    "EVENTS CALENDAR ": {
+        "Segittur 2022": 182,
+        "others_solutions": [
+            {
+                "other_solution": "ENTRYDOCS",
+                "Segittur 2023": 271
+            }
+        ]
+    },
+    "UNBLOCK: THE SMART SIDE OF THE CITY": {
+        "Segittur 2022": 238,
+        "others_solutions": [
+            {
+                "other_solution": "Smart QR on any medium and space",
+                "Adestic V1": 34
+            },
+            {
+                "other_solution": "Qualified data platform",
+                "Adestic V1": 35
+            }
+        ]
+    },
+    "TOURIST GUIDE APPS WITH AUGMENTED REALITY": {
+        "Segittur 2022": 18,
+        "others_solutions": [
+            {
+                "other_solution": "OK my hotel",
+                "Adestic V2": 7
+            },
+            {
+                "other_solution": "Internet of Tourism",
+                "Adestic V2": 7
+            }
+        ]
+    },
+    "DESTINATION GATEWAY": {
+        "Segittur 2023": 118,
+        "others_solutions": [
+            {
+                "other_solution": "ForwardKeys Nexus",
+                "Adestic V2": 15
+            },
+            {
+                "other_solution": "ForwardKeys API",
+                "Adestic V2": 16
+            }
+        ]
+    },
+    "DIGITAL TOURISM TREASURE HUNT": {
+        "Segittur 2023": 231,
+        "others_solutions": [
+            {
+                "other_solution": "TECHNOLOGICAL SOLUTION Gamified mobile guide",
+                "Adestic V2": 30
+            },
+            {
+                "other_solution": "TECHNOLOGICAL SOLUTION Comprehensive tourist experiences",
+                "Adestic V2": 31
+            }
+        ]
+    },
+    "ADVICE FOR CALCULATION AND VERIFICATION OF CARBON FOOTPRINT": {
+        "Segittur 2023": 184,
+        "others_solutions": [
+            {
+                "other_solution": "Development of Strategic Plans and DTI together with the implementation of Smart Office DTI and Technical Offices European Funds",
+                "Adestic V2": 20
+            },
+            {
+                "other_solution": "Implementation of Tourism Standards, Advice and Support in the Implementation of Certifications",
+                "Adestic V2": 21
+            }
+        ]
+    },
+    "TOURISM CONSULTANCY TO DRAFT AND IMPLEMENT TOURISM SUSTAINABILITY PLANS": {
+        "Segittur 2023": 185,
+        "others_solutions": [
+            {
+                "other_solution": "Carbon Footprint Calculation",
+                "Adestic V2": 20
+            },
+            {
+                "other_solution": "Development of Strategic Plans and DTI together with the implementation of Smart Office DTI and Technical Offices European Funds",
+                "Adestic V2": 20
+            },
+            {
+                "other_solution": "Implementation of Tourism Standards, Advice and Support in the Implementation of Certifications",
+                "Adestic V2": 21
+            }
+        ]
+    },
+    "SMART DESTINATION MANAGEMENT TRAINING AND TOURISM SUSTAINABILITY PLANS. IMPLEMENTATION OF THE 2030 AGENDA, CSR AND SDGS IN THE TOURISM SECTOR": {
+        "Segittur 2023": 186,
+        "others_solutions": [
+            {
+                "other_solution": "Carbon Footprint Calculation",
+                "Adestic V2": 20
+            },
+            {
+                "other_solution": "Development of Strategic Plans and DTI together with the implementation of Smart Office DTI and Technical Offices European Funds",
+                "Adestic V2": 20
+            },
+            {
+                "other_solution": "Implementation of Tourism Standards, Advice and Support in the Implementation of Certifications",
+                "Adestic V2": 21
+            }
+        ]
+    },
+    "IMPLEMENTATION OF THE Q MARK AND ASSESSMENT OF THE ISO AND UNE STANDARDS": {
+        "Segittur 2023": 187,
+        "others_solutions": [
+            {
+                "other_solution": "Carbon Footprint Calculation",
+                "Adestic V2": 20
+            },
+            {
+                "other_solution": "Development of Strategic Plans and DTI together with the implementation of Smart Office DTI and Technical Offices European Funds",
+                "Adestic V2": 20
+            }
+        ]
+    },
+    "DRAFTING AND IMPLEMENTATION OF\u00a0SMART DESTINATION AND STRATEGIC TOURISM PLANS": {
+        "Segittur 2023": 188,
+        "others_solutions": [
+            {
+                "other_solution": "Carbon Footprint Calculation",
+                "Adestic V2": 20
+            },
+            {
+                "other_solution": "Implementation of Tourism Standards, Advice and Support in the Implementation of Certifications",
+                "Adestic V2": 21
+            }
+        ]
+    },
+    "DRAFTING AND IMPLEMENTATION OF\u00a0COVID-19 CONTINGENCY PLANS": {
+        "Segittur 2023": 189,
+        "others_solutions": [
+            {
+                "other_solution": "Carbon Footprint Calculation",
+                "Adestic V2": 20
+            },
+            {
+                "other_solution": "Development of Strategic Plans and DTI together with the implementation of Smart Office DTI and Technical Offices European Funds",
+                "Adestic V2": 20
+            },
+            {
+                "other_solution": "Implementation of Tourism Standards, Advice and Support in the Implementation of Certifications",
+                "Adestic V2": 21
+            }
+        ]
+    },
+    "INTEGRATED TOURISM EXPERIENCES": {
+        "Segittur 2023": 229,
+        "others_solutions": [
+            {
+                "other_solution": "TECHNOLOGICAL SOLUTION Gamified mobile guide",
+                "Adestic V2": 30
+            },
+            {
+                "other_solution": "TECHNOLOGICAL SOLUTION Digital tourist gymkhana",
+                "Adestic V2": 31
+            }
+        ]
+    },
+    "GAMIFIED MOBILE GUIDE": {
+        "Segittur 2023": 230,
+        "others_solutions": [
+            {
+                "other_solution": "TECHNOLOGICAL SOLUTION Digital tourist gymkhana",
+                "Adestic V2": 31
+            },
+            {
+                "other_solution": "TECHNOLOGICAL SOLUTION Comprehensive tourist experiences",
+                "Adestic V2": 31
+            }
+        ]
+    },
+    "SMART DATA PLATFORM": {
+        "Segittur 2023": 232,
+        "others_solutions": [
+            {
+                "other_solution": "TECHNOLOGICAL SOLUTION Gamified mobile guide",
+                "Adestic V2": 30
+            },
+            {
+                "other_solution": "TECHNOLOGICAL SOLUTION Digital tourist gymkhana",
+                "Adestic V2": 31
+            },
+            {
+                "other_solution": "TECHNOLOGICAL SOLUTION Comprehensive tourist experiences",
+                "Adestic V2": 31
+            }
+        ]
+    },
+    "Web data analysis": {
+        "Adestic V1": 6,
+        "others_solutions": [
+            {
+                "other_solution": "SEO Positioning",
+                "Adestic V2": 5
+            },
+            {
+                "other_solution": "PPC / Social Ads",
+                "Adestic V2": 5
+            },
+            {
+                "other_solution": "Web analytics and CRO",
+                "Adestic V2": 6
+            }
+        ]
+    },
+    "Development of customized Artificial Intelligence products and projects": {
+        "Adestic V1": 9,
+        "others_solutions": [
+            {
+                "other_solution": "Training in Government, Data Analytics and Artificial Intelligence for Tourism Companies and Tourist Destinations",
+                "Adestic V2": 12
+            },
+            {
+                "other_solution": "Tailored Data Analytics and Artificial Intelligence Services for Destinations and Tourism Companies",
+                "Adestic V2": 11
+            }
+        ]
+    },
+    "Recommender systems and dynamic pricing": {
+        "Adestic V1": 9,
+        "others_solutions": [
+            {
+                "other_solution": "Tailored Data Analytics and Artificial Intelligence Services for Destinations and Tourism Companies",
+                "Adestic V2": 11
+            },
+            {
+                "other_solution": "Training in Government, Data Analytics and Artificial Intelligence for Tourism Companies and Tourist Destinations",
+                "Adestic V2": 12
+            }
+        ]
+    },
+    "Resource Optimization": {
+        "Adestic V1": 10,
+        "others_solutions": [
+            {
+                "other_solution": "Tailored Data Analytics and Artificial Intelligence Services for Destinations and Tourism Companies",
+                "Adestic V2": 11
+            },
+            {
+                "other_solution": "Training in Government, Data Analytics and Artificial Intelligence for Tourism Companies and Tourist Destinations",
+                "Adestic V2": 12
+            }
+        ]
+    },
+    "Digitization of resources and facilities (Virtual Visits/360\u00ba tours)": {
+        "Adestic V1": 10,
+        "others_solutions": [
+            {
+                "other_solution": "Immersive Hotel",
+                "Adestic V2": 12
+            },
+            {
+                "other_solution": "Digital Tourist Viewpoint",
+                "Adestic V2": 13
+            }
+        ]
+    },
+    "Digital Tourist Viewpoints": {
+        "Adestic V1": 11,
+        "others_solutions": [
+            {
+                "other_solution": "Immersive Hotel",
+                "Adestic V2": 12
+            },
+            {
+                "other_solution": "Immersive Contents (virtual visits/360\u00ba tours). Digitization of Spaces, Resources and Facilities.",
+                "Adestic V2": 13
+            }
+        ]
+    },
+    "Infotourist Office": {
+        "Adestic V1": 13,
+        "others_solutions": [
+            {
+                "other_solution": "Infotourist NET",
+                "Adestic V2": 18
+            }
+        ]
+    },
+    "Infotourist API": {
+        "Adestic V1": 14,
+        "others_solutions": [
+            {
+                "other_solution": "Infotourist O\ufb03 ce",
+                "Adestic V2": 17
+            },
+            {
+                "other_solution": "Infotourist NET",
+                "Adestic V2": 18
+            }
+        ]
+    },
+    "Y Beach": {
+        "Adestic V1": 25,
+        "others_solutions": [
+            {
+                "other_solution": "Y Ticketing",
+                "Adestic V2": 33
+            },
+            {
+                "other_solution": "Yadmin",
+                "Adestic V2": 34
+            },
+            {
+                "other_solution": "YAforo",
+                "Adestic V2": 34
+            }
+        ]
+    },
+    "Agenda Cultural": {
+        "Adestic V1": 25,
+        "others_solutions": [
+            {
+                "other_solution": "Y Ticketing",
+                "Adestic V2": 33
+            },
+            {
+                "other_solution": "Yadmin",
+                "Adestic V2": 34
+            },
+            {
+                "other_solution": "YAforo",
+                "Adestic V2": 34
+            }
+        ]
+    },
+    "Tracking and Digital Antigen Test": {
+        "Adestic V1": 26,
+        "others_solutions": [
+            {
+                "other_solution": "Y Ticketing",
+                "Adestic V2": 33
+            },
+            {
+                "other_solution": "Yadmin",
+                "Adestic V2": 34
+            },
+            {
+                "other_solution": "YAforo",
+                "Adestic V2": 34
+            }
+        ]
+    },
+    "Lora WAN Networks": {
+        "Adestic V1": 30,
+        "others_solutions": [
+            {
+                "other_solution": "Tourist Traceability Sensor",
+                "Adestic V2": 38
+            }
+        ]
+    },
+    "IOT Sensorization": {
+        "Adestic V1": 30,
+        "others_solutions": [
+            {
+                "other_solution": "Tourist Traceability Sensor",
+                "Adestic V2": 38
             }
         ]
     }
