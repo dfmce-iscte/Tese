@@ -45,6 +45,19 @@ def add_info_to_text(info):
     text_to_add += info
 
 
+def check_for_glossary(element, name=""):
+    global glossary
+    text = element['text'] if name == "" else name
+    for key in glossary.keys():
+        if key in text:
+            if 'glossary' not in element:
+                element['glossary'] = {key: glossary[key]}
+            elif key not in element['glossary']:
+                element['glossary'][key] = glossary[key]
+
+    return element
+
+
 def add_to_type_or_suplier():
     # print(f"Add to type: {add_to}, text: {text}")
     global add_to_type_or_to_suplier, technology_type, suplier, text_to_add, block_belongs_to_bullet_list
@@ -55,8 +68,10 @@ def add_to_type_or_suplier():
     p.string = text_to_add
     if add_to_type_or_to_suplier:
         technology_type['text'] = str(p)
+        technology_type = check_for_glossary(technology_type)
     else:
         suplier['text'] = str(p)
+        suplier = check_for_glossary(suplier)
         add_suplier_to_technology_type()
 
 
@@ -82,6 +97,7 @@ def analyze_technology_type(span):
             technology_solutions[section_number] = technology_type
         # Start a new type of technology.
         technology_type = {'name': span['text'], 'page': [page_number], 'text': "", 'supliers': {}}
+        technology_type = check_for_glossary(technology_type, span['text'])
         section_number = new_section_number
         add_to_type_or_to_suplier = True
     elif page_number not in technology_type['page']:
@@ -109,6 +125,7 @@ def analyze_suplier(span):
     h2.string = span['text']
     suplier_name = str(h2)
     suplier = {'bbox': span['bbox']}
+    suplier = check_for_glossary(suplier, suplier_name)
     add_to_type_or_to_suplier = False
 
 
@@ -274,7 +291,7 @@ def analyze_normal_block(block, skip):
 def analyze_page():
     global page_number, images
     print(f"\tPAGE: {page_number}")
-    skip = False
+    skip = False  # Is used to skip the exceptions of pages 71, 74, 79, 98
     table_of_page_133_analyzed = False
     for index, block in enumerate(page.get_text('dict')['blocks']):
         # pprint(block)
@@ -294,6 +311,7 @@ def analyze_page():
 
 technology_solutions = {}
 images = {}
+glossary = json.load(open("Glossary.json", "r"))
 exception_pages = [79]
 exception_subtitles = ["Audio recording editing software", "Video editing software", "360 videos"]
 first_page, last_page = 63, 155  # First page number is 0.

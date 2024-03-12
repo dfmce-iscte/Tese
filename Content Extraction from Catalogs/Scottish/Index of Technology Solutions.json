@@ -1,0 +1,1109 @@
+{
+    "1": {
+        "section_name": "Go online -website",
+        "supliers": {
+            "Text": {
+                "page": "64",
+                "case_studies": [
+                    ""
+                ]
+            },
+            "Wordpress.com": {
+                "page": "64",
+                "case_studies": [
+                    "Dunfermline Tours"
+                ]
+            },
+            "SquareSpace": {
+                "page": "64",
+                "case_studies": [
+                    ""
+                ]
+            },
+            "Business Gateway / DigitalBoost": {
+                "page": "65",
+                "case_studies": [
+                    ""
+                ]
+            }
+        }
+    },
+    "2": {
+        "section_name": "Go online -social media",
+        "supliers": {
+            "Text": {
+                "page": "66",
+                "case_studies": [
+                    "Scotland Starts Here",
+                    "Dunfermline Tours",
+                    "Outer Hebrides Tourism",
+                    "Buffalo Ricer Pumpkin Patch",
+                    "Go Rural",
+                    "Keukenhof"
+                ]
+            },
+            "Business Gateway / DigitalBoost": {
+                "page": "66",
+                "case_studies": [
+                    ""
+                ]
+            }
+        }
+    },
+    "3": {
+        "section_name": "Social media -audio",
+        "supliers": {
+            "Soundcloud": {
+                "page": "67",
+                "case_studies": [
+                    "Dunfermline Tours"
+                ]
+            },
+            "Spotify": {
+                "page": "67",
+                "case_studies": [
+                    "Dunfermline Tours",
+                    "British Museum"
+                ]
+            }
+        }
+    },
+    "4": {
+        "section_name": "Social media -video",
+        "supliers": {
+            "YouTube": {
+                "page": "68",
+                "case_studies": [
+                    "Historic Royal Palaces",
+                    "British Museum",
+                    "Master of malt",
+                    "Keukenhof"
+                ]
+            },
+            "Facebook": {
+                "page": "68",
+                "case_studies": [
+                    ""
+                ]
+            }
+        }
+    },
+    "5": {
+        "section_name": "Social media -livestreaming",
+        "supliers": {
+            "Text": {
+                "page": "69",
+                "case_studies": [
+                    "Peregrine Falcons webcam"
+                ]
+            },
+            "Instagram Live": {
+                "page": "69",
+                "case_studies": [
+                    "Street Art Buddha"
+                ]
+            },
+            "YouTube": {
+                "page": "69",
+                "case_studies": [
+                    ""
+                ]
+            },
+            "Facebook Live": {
+                "page": "69",
+                "case_studies": [
+                    "Go Rural"
+                ]
+            },
+            "Vimeo Live": {
+                "page": "70",
+                "case_studies": [
+                    ""
+                ]
+            },
+            "Zoom": {
+                "page": "70",
+                "case_studies": [
+                    "Street Art Buddha",
+                    "Seafood from Scotland",
+                    "Red Bus Bistro",
+                    "BrewDog Onlone Bar"
+                ]
+            },
+            "Other technologies": {
+                "page": "70",
+                "case_studies": [
+                    "Master of Malt"
+                ]
+            }
+        }
+    },
+    "6": {
+        "section_name": "Video and live streaming",
+        "supliers": {
+            "Vimeo": {
+                "page": "71",
+                "case_studies": [
+                    ""
+                ]
+            }
+        }
+    },
+    "7": {
+        "section_name": "Audio recording editing",
+        "supliers": {
+            "Text": {
+                "page": "72",
+                "case_studies": [
+                    ""
+                ]
+            },
+            "Audacity": {
+                "page": "72",
+                "case_studies": [
+                    ""
+                ]
+            },
+            "Oceanaudio": {
+                "page": "72",
+                "case_studies": [
+                    ""
+                ]
+            },
+            "Ashampoo Music Studio 2019": {
+                "page": "72",
+                "case_studies": [
+                    ""
+                ]
+            },
+            "Acoustica 6": {
+                "page": "72",
+                "case_studies": [
+                    ""
+                ]
+            }
+        }
+    },
+    "8": {
+        "section_name": "Podcasts",
+        "supliers": {
+            "Text": {
+                "page": "73",
+                "case_studies": [
+                    "British Museum"
+                ]
+            },
+            "Bespoken Media": {
+                "page": "73-74",
+                "case_studies": [
+                    "Scotland Starts Here"
+                ]
+            }
+        }
+    },
+    "9": {
+        "section_name": "Video editing",
+        "supliers": {
+            "Text": {
+                "page": "75",
+                "case_studies": [
+                    "Historic Royal Palaces",
+                    "Keukenhof",
+                    "Master of Malt"
+                ]
+            },
+            "Imovie for iPhone": {
+                "page": "75",
+                "case_studies": [
+                    ""
+                ]
+            },
+            "Filmora Go": {
+                "page": "75",
+                "case_studies": [
+                    ""
+                ]
+            },
+            "Adobe Premiere Pro": {
+                "page": "75",
+                "case_studies": [
+                    ""
+                ]
+            },
+            "Shotcut": {
+                "page": "75",
+                "case_studies": [
+                    ""
+                ]
+            },
+            "rev.com": {
+                "page": "75",
+                "case_studies": [
+                    ""
+                ]
+            }
+        }
+    },
+    "10": {
+        "section_name": "Video production and podcasts",
+        "supliers": {
+            "Comsteria": {
+                "page": "76-77",
+                "case_studies": [
+                    ""
+                ]
+            }
+        }
+    },
+    "11": {
+        "section_name": "Website and app",
+        "supliers": {
+            "Whereverly": {
+                "page": "78",
+                "case_studies": [
+                    "Scotland Starts Here"
+                ]
+            }
+        }
+    },
+    "12": {
+        "section_name": "Audio-guides -handsets and\napps",
+        "supliers": {
+            "Text": {
+                "page": "79-80",
+                "case_studies": [
+                    "Royal Yacht Britannia",
+                    "Cinque Terre Card",
+                    "Rock and Roll Hall of Fame",
+                    "Downtown CityMaps",
+                    "British Museum",
+                    "Fete des Lumieres",
+                    "Beatles Story"
+                ]
+            },
+            "Antenna International": {
+                "page": "80",
+                "case_studies": [
+                    "Beatles Story"
+                ]
+            },
+            "ATS Heritage": {
+                "page": "80",
+                "case_studies": [
+                    ""
+                ]
+            },
+            "Guide ID": {
+                "page": "80",
+                "case_studies": [
+                    ""
+                ]
+            },
+            "Orpheo": {
+                "page": "80",
+                "case_studies": [
+                    ""
+                ]
+            },
+            "Tonevelt": {
+                "page": "80",
+                "case_studies": [
+                    ""
+                ]
+            }
+        }
+    },
+    "13": {
+        "section_name": "Audio-guides -handsets",
+        "supliers": {
+            "Antenna International": {
+                "page": "81-82",
+                "case_studies": [
+                    "Beatles Story"
+                ]
+            }
+        }
+    },
+    "14": {
+        "section_name": "App",
+        "supliers": {
+            "Smartify": {
+                "page": "83-84",
+                "case_studies": [
+                    ""
+                ]
+            }
+        }
+    },
+    "15": {
+        "section_name": "Web portal and app",
+        "supliers": {
+            "Deblur -QuestNative": {
+                "page": "85-86",
+                "case_studies": [
+                    ""
+                ]
+            }
+        }
+    },
+    "16": {
+        "section_name": "App",
+        "supliers": {
+            "Geotourist": {
+                "page": "87-88",
+                "case_studies": [
+                    "Outer Hebrides Tourism"
+                ]
+            }
+        }
+    },
+    "17": {
+        "section_name": "App and audio platform",
+        "supliers": {
+            "Hidden Trax": {
+                "page": "89",
+                "case_studies": [
+                    ""
+                ]
+            }
+        }
+    },
+    "18": {
+        "section_name": "App, ticketing and heat maps",
+        "supliers": {
+            "Attractions.io": {
+                "page": "90-91",
+                "case_studies": [
+                    ""
+                ]
+            }
+        }
+    },
+    "19": {
+        "section_name": "Progressive web app",
+        "supliers": {
+            "Antenna International": {
+                "page": "92-93",
+                "case_studies": [
+                    "Pitlochry Dam"
+                ]
+            }
+        }
+    },
+    "20": {
+        "section_name": "Apps and operational software",
+        "supliers": {
+            "First Option Software": {
+                "page": "94-95",
+                "case_studies": [
+                    ""
+                ]
+            }
+        }
+    },
+    "21": {
+        "section_name": "Apps and headsets",
+        "supliers": {
+            "Vox": {
+                "page": "96",
+                "case_studies": [
+                    "Brilliant Tours"
+                ]
+            }
+        }
+    },
+    "22": {
+        "section_name": "Virtual and augmented reality",
+        "supliers": {
+            "Text": {
+                "page": "97",
+                "case_studies": [
+                    "SENSEcity Walks Glasgow",
+                    "Master of Malt",
+                    "Keukenhof",
+                    "Downtown CityMaps"
+                ]
+            }
+        }
+    },
+    "23": {
+        "section_name": "Virtual and augmented reality",
+        "supliers": {
+            "VRdirect": {
+                "page": "98",
+                "case_studies": [
+                    ""
+                ]
+            }
+        }
+    },
+    "24": {
+        "section_name": "Augmented and virtual reality -360 videos",
+        "supliers": {
+            "Text": {
+                "page": "99",
+                "case_studies": [
+                    "British Museum",
+                    "Salisbury Cathedral",
+                    "Keukenhof"
+                ]
+            },
+            "Oculus Experience": {
+                "page": "99",
+                "case_studies": [
+                    ""
+                ]
+            },
+            "YouTube Three Sixty": {
+                "page": "99",
+                "case_studies": [
+                    ""
+                ]
+            },
+            "Facebook Three Sixty\nVideo Feeds": {
+                "page": "99",
+                "case_studies": [
+                    ""
+                ]
+            },
+            "VrideoImmersion": {
+                "page": "99",
+                "case_studies": [
+                    ""
+                ]
+            },
+            "LittlStar": {
+                "page": "99",
+                "case_studies": [
+                    ""
+                ]
+            },
+            "Jaunt VR": {
+                "page": "99",
+                "case_studies": [
+                    ""
+                ]
+            },
+            "Google Street View": {
+                "page": "99",
+                "case_studies": [
+                    ""
+                ]
+            },
+            "Facebook 360": {
+                "page": "99",
+                "case_studies": [
+                    ""
+                ]
+            }
+        }
+    },
+    "25": {
+        "section_name": "Augmented and virtual reality -goggles",
+        "supliers": {
+            "Oculus VR Device": {
+                "page": "100",
+                "case_studies": [
+                    ""
+                ]
+            },
+            "Google Cardboard": {
+                "page": "100",
+                "case_studies": [
+                    ""
+                ]
+            },
+            "HTC Vive": {
+                "page": "100",
+                "case_studies": [
+                    ""
+                ]
+            }
+        }
+    },
+    "26": {
+        "section_name": "Apps, augmented reality and virtual reality",
+        "supliers": {
+            "SENSEcity": {
+                "page": "101",
+                "case_studies": [
+                    "SENSEcity Walks Glasgow"
+                ]
+            }
+        }
+    },
+    "27": {
+        "section_name": "Augmented reality",
+        "supliers": {
+            "Yondar": {
+                "page": "102-103",
+                "case_studies": [
+                    ""
+                ]
+            }
+        }
+    },
+    "28": {
+        "section_name": "AR Experience platform and app",
+        "supliers": {
+            "Reydar": {
+                "page": "104-105",
+                "case_studies": [
+                    ""
+                ]
+            }
+        }
+    },
+    "29": {
+        "section_name": "360 degree videos and livestreaming -\ncameras",
+        "supliers": {
+            "iCode": {
+                "page": "106",
+                "case_studies": [
+                    "Peregrine Falcons webcam"
+                ]
+            },
+            "GoPro Fusion": {
+                "page": "106",
+                "case_studies": [
+                    "Master of Malt"
+                ]
+            }
+        }
+    },
+    "30": {
+        "section_name": "360 degree virtual experiences",
+        "supliers": {
+            "SeekBeak": {
+                "page": "107-108",
+                "case_studies": [
+                    "Salisbury Cathedral",
+                    "Buffalo River Pumpkin Patch"
+                ]
+            }
+        }
+    },
+    "31": {
+        "section_name": "360 degree virtual tour services",
+        "supliers": {
+            "Be More Colorful": {
+                "page": "109-110",
+                "case_studies": [
+                    "Buffalo River Pumpkin Patch"
+                ]
+            }
+        }
+    },
+    "32": {
+        "section_name": "360 degree and 3D virtual tour",
+        "supliers": {
+            "View360 Scotland Ltd": {
+                "page": "111-112",
+                "case_studies": [
+                    ""
+                ]
+            }
+        }
+    },
+    "33": {
+        "section_name": "QR codes",
+        "supliers": {
+            "QR Code Generator": {
+                "page": "113",
+                "case_studies": [
+                    "Downtown City Maps",
+                    "Outer Hebrides Tourism",
+                    "Pitlochry Dam",
+                    "Beatles Story",
+                    "Cinque Terre Card"
+                ]
+            }
+        }
+    },
+    "34": {
+        "section_name": "QR codes and Augmented Reality",
+        "supliers": {
+            "Downtown City Maps &\nGuides": {
+                "page": "114-115",
+                "case_studies": [
+                    "Downtown City Maps"
+                ]
+            }
+        }
+    },
+    "35": {
+        "section_name": "Virtual trade shows",
+        "supliers": {
+            "6Connex": {
+                "page": "116",
+                "case_studies": [
+                    "Visit Britain"
+                ]
+            }
+        }
+    },
+    "36": {
+        "section_name": "Virtual fam trips",
+        "supliers": {
+            "Spinning Globe -VFam": {
+                "page": "117-118",
+                "case_studies": [
+                    ""
+                ]
+            }
+        }
+    },
+    "37": {
+        "section_name": "Virtual event management",
+        "supliers": {
+            "YOURgb": {
+                "page": "119-120",
+                "case_studies": [
+                    "Seafood from Scotland"
+                ]
+            }
+        }
+    },
+    "38": {
+        "section_name": "Booking online",
+        "supliers": {
+            "Text": {
+                "page": "121",
+                "case_studies": [
+                    "Cinque Terre Card"
+                ]
+            },
+            "WooCommerce": {
+                "page": "122",
+                "case_studies": [
+                    ""
+                ]
+            },
+            "FooEvents": {
+                "page": "122",
+                "case_studies": [
+                    ""
+                ]
+            },
+            "Eventbrite": {
+                "page": "122",
+                "case_studies": [
+                    ""
+                ]
+            },
+            "ACME Ticketing": {
+                "page": "123",
+                "case_studies": [
+                    ""
+                ]
+            },
+            "Ticketureby TixTrack": {
+                "page": "123",
+                "case_studies": [
+                    "Rock and Roll Hall of Fame"
+                ]
+            }
+        }
+    },
+    "39": {
+        "section_name": "Booking online -ticketing options",
+        "supliers": {
+            "TrekkSoft": {
+                "page": "124",
+                "case_studies": [
+                    ""
+                ]
+            }
+        }
+    },
+    "40": {
+        "section_name": "Booking online",
+        "supliers": {
+            "Bokun": {
+                "page": "125-126",
+                "case_studies": [
+                    "Brilliant Tours"
+                ]
+            }
+        }
+    },
+    "41": {
+        "section_name": "Booking online",
+        "supliers": {
+            "FareHarbor": {
+                "page": "127",
+                "case_studies": [
+                    ""
+                ]
+            }
+        }
+    },
+    "42": {
+        "section_name": "Booking online",
+        "supliers": {
+            "Touriosity": {
+                "page": "128",
+                "case_studies": [
+                    ""
+                ]
+            }
+        }
+    },
+    "43": {
+        "section_name": "Ticketing options",
+        "supliers": {
+            "pretix": {
+                "page": "129",
+                "case_studies": [
+                    ""
+                ]
+            }
+        }
+    },
+    "44": {
+        "section_name": "Ticketing options",
+        "supliers": {
+            "Gateway Ticketing Systems": {
+                "page": "130",
+                "case_studies": [
+                    ""
+                ]
+            }
+        }
+    },
+    "45": {
+        "section_name": "Ticketing options and CRM",
+        "supliers": {
+            "Roller Software": {
+                "page": "131-132",
+                "case_studies": [
+                    ""
+                ]
+            }
+        }
+    },
+    "46": {
+        "section_name": "CRM and online rates",
+        "supliers": {
+            "TourConnect": {
+                "page": "133",
+                "case_studies": [
+                    ""
+                ]
+            }
+        }
+    },
+    "47": {
+        "section_name": "Contactless payment",
+        "supliers": {
+            "Text": {
+                "page": "134",
+                "case_studies": [
+                    "Brilliant Tours"
+                ]
+            },
+            "iZettle Reader": {
+                "page": "134",
+                "case_studies": [
+                    ""
+                ]
+            },
+            "SumUp Air": {
+                "page": "134",
+                "case_studies": [
+                    ""
+                ]
+            },
+            "Square Reader": {
+                "page": "134",
+                "case_studies": [
+                    ""
+                ]
+            },
+            "PayPal Here": {
+                "page": "134",
+                "case_studies": [
+                    ""
+                ]
+            },
+            "Worldpay Reader": {
+                "page": "134",
+                "case_studies": [
+                    ""
+                ]
+            }
+        }
+    },
+    "48": {
+        "section_name": "Payment gateways",
+        "supliers": {
+            "Text": {
+                "page": "135",
+                "case_studies": [
+                    ""
+                ]
+            },
+            "WorldPay": {
+                "page": "135",
+                "case_studies": [
+                    ""
+                ]
+            },
+            "Stripe": {
+                "page": "135",
+                "case_studies": [
+                    ""
+                ]
+            },
+            "PayPal": {
+                "page": "136",
+                "case_studies": [
+                    ""
+                ]
+            },
+            "Amazon Pay": {
+                "page": "136",
+                "case_studies": [
+                    ""
+                ]
+            },
+            "Authorize.net": {
+                "page": "136",
+                "case_studies": [
+                    ""
+                ]
+            },
+            "Sage Pay": {
+                "page": "137",
+                "case_studies": [
+                    ""
+                ]
+            },
+            "CardStream": {
+                "page": "137",
+                "case_studies": [
+                    ""
+                ]
+            },
+            "Payl8r": {
+                "page": "137",
+                "case_studies": [
+                    ""
+                ]
+            }
+        }
+    },
+    "49": {
+        "section_name": "CAD, 3D models and virtual tours",
+        "supliers": {
+            "Stageport": {
+                "page": "138",
+                "case_studies": [
+                    ""
+                ]
+            }
+        }
+    },
+    "50": {
+        "section_name": "Customer Insights",
+        "supliers": {
+            "MyCustomerLens": {
+                "page": "139",
+                "case_studies": [
+                    ""
+                ]
+            }
+        }
+    },
+    "51": {
+        "section_name": "Touch screen solutions",
+        "supliers": {
+            "Text": {
+                "page": "140",
+                "case_studies": [
+                    "Rock and Roll Hall of Fame"
+                ]
+            }
+        }
+    },
+    "52": {
+        "section_name": "Visitor flow -tracking",
+        "supliers": {
+            "Text": {
+                "page": "141",
+                "case_studies": [
+                    ""
+                ]
+            },
+            "Cisco Meraki": {
+                "page": "141",
+                "case_studies": [
+                    "National Gallery, London"
+                ]
+            }
+        }
+    },
+    "53": {
+        "section_name": "Visitor flow -data analysis",
+        "supliers": {
+            "Analytics Engines Ltd": {
+                "page": "142",
+                "case_studies": [
+                    "National Gallery, London"
+                ]
+            }
+        }
+    },
+    "54": {
+        "section_name": "Visitor flow -heat maps",
+        "supliers": {
+            "Vox": {
+                "page": "143",
+                "case_studies": [
+                    ""
+                ]
+            }
+        }
+    },
+    "55": {
+        "section_name": "Map functionality",
+        "supliers": {
+            "what3words": {
+                "page": "144",
+                "case_studies": [
+                    ""
+                ]
+            }
+        }
+    },
+    "56": {
+        "section_name": "Map functionality",
+        "supliers": {
+            "Mapbox": {
+                "page": "145",
+                "case_studies": [
+                    "Dunfermline Tours",
+                    "Fetedes Lumieres"
+                ]
+            }
+        }
+    },
+    "57": {
+        "section_name": "Map functionality",
+        "supliers": {
+            "SplashMaps": {
+                "page": "146",
+                "case_studies": [
+                    "Outer Hebrides Tourism"
+                ]
+            }
+        }
+    },
+    "58": {
+        "section_name": "Hygiene, PPE and social distancing",
+        "supliers": {
+            "Text": {
+                "page": "147",
+                "case_studies": [
+                    "Brilliant Tours"
+                ]
+            },
+            "Mastertent": {
+                "page": "147",
+                "case_studies": [
+                    ""
+                ]
+            },
+            "Blue Parrot Events Group Ltd": {
+                "page": "148",
+                "case_studies": [
+                    ""
+                ]
+            },
+            "Supagard": {
+                "page": "148",
+                "case_studies": [
+                    "Glasgow Taxis"
+                ]
+            },
+            "The Safety Screens": {
+                "page": "148",
+                "case_studies": [
+                    ""
+                ]
+            }
+        }
+    },
+    "59": {
+        "section_name": "Social distancing",
+        "supliers": {
+            "Deblur": {
+                "page": "149",
+                "case_studies": [
+                    ""
+                ]
+            }
+        }
+    },
+    "60": {
+        "section_name": "Social distancing",
+        "supliers": {
+            "Studio Souffle": {
+                "page": "150-151",
+                "case_studies": [
+                    ""
+                ]
+            }
+        }
+    },
+    "61": {
+        "section_name": "Touchless design",
+        "supliers": {
+            "Philip Watts Design -Shoe Pull": {
+                "page": "152",
+                "case_studies": [
+                    ""
+                ]
+            },
+            "Cre8tive": {
+                "page": "152",
+                "case_studies": [
+                    ""
+                ]
+            }
+        }
+    },
+    "62": {
+        "section_name": "Contact tracing",
+        "supliers": {
+            "Text": {
+                "page": "153",
+                "case_studies": [
+                    ""
+                ]
+            }
+        }
+    },
+    "63": {
+        "section_name": "Contact tracing",
+        "supliers": {
+            "SAFE2GO": {
+                "page": "154",
+                "case_studies": [
+                    ""
+                ]
+            }
+        }
+    },
+    "64": {
+        "section_name": "Contact tracing",
+        "supliers": {
+            "McLean Digital": {
+                "page": "155",
+                "case_studies": [
+                    ""
+                ]
+            }
+        }
+    }
+}
