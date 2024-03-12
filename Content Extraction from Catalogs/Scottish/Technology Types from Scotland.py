@@ -24,8 +24,8 @@ So, when you see 'descender': -0.22216796875, it means that the maximum distance
 span descends below the baseline is 22.2% of the font size. The value is negative because it is measured 
 below the baseline.
 """
-scottish_catalog = "../Catalogs/Catalogue Scottish.pdf"
-scottish_patterns = json.load(open("Scottish_patterns.json", "r"))
+scottish_catalog = "../../Catalogs/Catalogue Scottish.pdf"
+scottish_patterns = json.load(open("Scottish_Patterns.json", "r"))
 soup = BeautifulSoup('<html></html>', 'html.parser')
 
 
