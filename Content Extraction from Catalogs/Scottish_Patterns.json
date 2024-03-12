@@ -1,0 +1,53 @@
+{
+  "Title": {
+    "color": 5329233,
+    "descender": -0.22216796875,
+    "flags": 16,
+    "font": "TrebuchetMS-Bold",
+    "size": 32.040000915527344
+  },
+  "Second_Title": {
+    "color": 7806760,
+    "descender": -0.22216796875,
+    "flags": 16,
+    "font": "TrebuchetMS-Bold",
+    "size": 14.039999961853027
+  },
+  "Normal_Text": {
+    "color": 5329233,
+    "descender": -0.22216796875,
+    "flags": 0,
+    "font": "TrebuchetMS",
+    "size": 12.0
+  },
+  "Bullets": {
+    "color": 7806760,
+    "descender": -0.2119140625,
+    "flags": 0,
+    "font": "ArialMT",
+    "size": 12.0,
+    "text": "•"
+  },
+  "Bold_Normal_Text": {
+    "color": 5329233,
+    "descender": -0.22216796875,
+    "flags": 16,
+    "font": "TrebuchetMS-Bold",
+    "size": 12.0
+  },
+  "Hyperlinks": {
+    "color": 7053092,
+    "descender": -0.22216796875,
+    "flags": 0,
+    "font": "TrebuchetMS",
+    "size": 12.0
+  },
+  "Case_Studies": {
+    "color": 16777215,
+    "descender": -0.22216796875,
+    "flags": 16,
+    "font": "TrebuchetMS-Bold",
+    "size": 11.039999961853027
+  }
+
+}
