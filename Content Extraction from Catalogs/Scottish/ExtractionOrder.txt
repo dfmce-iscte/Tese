@@ -1,0 +1,8 @@
+1. ExtractGlossary.py
+2. ExtractTechnologyTypesFromScottish.py
+3. Manual Additions.json
+4. ExtractIndexOfTechnologySolutions.py
+5. AssociateCaseStudiesToTechnologyTypes.py
+6. ExtractIndexCaseStudies.py
+7. ExtractCaseStudies.py
+

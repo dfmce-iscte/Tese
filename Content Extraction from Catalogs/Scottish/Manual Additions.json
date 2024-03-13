@@ -1,0 +1,210 @@
+[{
+	"<h2>Audio recording editing software</h2>": {
+                "bbox": [
+                    31.27199935913086,
+                    87.32694244384766,
+                    250.29977416992188,
+                    103.6292495727539
+                ],
+                "text": "<p>You can record audio on your mobile phone or tablet. If your device is less than four \nyears old, the software for editing on the device is intuitive. \nIf using a computer to edit, free editing software is available and easy to use. \nRead more here: <a href=\"https://www.techradar.com/uk/news/the-best-free-audio-editor\">https://www.techradar.com/uk/news/the-best-free-audio-editor</a>\nIf you have some money in your budget, it may be a good idea to invest in a microphone \nfirst.\nSome great tips on equipment and general audio work can be found in the “Your \nMuseum Needs a Podcast” book by Hannah Hethmon, which is available to buy online or \nin your local bookstore.</p>"
+            },
+            "<h2>Audacity (Windows, macOS, Linux)</h2>": {
+                "bbox": [
+                    35.47317123413086,
+                    198.56243896484375,
+                    409.2769470214844,
+                    212.49603271484375
+                ],
+                "text": "<p><a href=\"https://www.audacityteam.org/\">https://www.audacityteam.org/</a></p>"
+            },
+            "<h2>Ocenaudio (Windows, macOS, Linux)</h2>": {
+                "bbox": [
+                    35.47317123413086,
+                    222.44244384765625,
+                    476.6688537597656,
+                    236.37603759765625
+                ],
+                "text": "<p><a href=\"https://www.ocenaudio.com/en/startpage\">https://www.ocenaudio.com/en/startpage</a></p>"
+            },
+            "<h2>Ashampoo Music Studio 2019 (Windows)</h2>": {
+                "bbox": [
+                    35.47317123413086,
+                    246.472412109375,
+                    506.0562438964844,
+                    286.3260192871094
+                ],
+                "text": "<p><a href=\"https://www.ashampoo.com/en/usd/pin/1530/multimedia-software/Ashampoo-Music-Studio-2019\">https://www.ashampoo.com/en/usd/pin/1530/multimedia-software/Ashampoo-Music-Studio-2019</a></p>"
+            },
+            "<h2>Acoustica 6 (Windows)</h2>": {
+                "bbox": [
+                    35.47317123413086,
+                    296.3924255371094,
+                    357.6929931640625,
+                    310.3260192871094
+                ],
+                "text": "<p><a href=\"https://acondigital.com/products/\">https://acondigital.com/products/</a></p>"
+            }
+},
+{
+	"<h2>Video editing software</h2>": {
+                "bbox": [
+                    31.27199935913086,
+                    87.32694244384766,
+                    182.8797149658203,
+                    103.6292495727539
+                ],
+                "text": "<p>You can easily record video on your mobile phone or tablet. If you want to edit your \nvideo – for example, add your logo, add music, combine several clips - you can use \nvideo editing tools on your mobile phone or desktop. \nHere are a few suggestions: </p>"
+            },
+            "<h2>iMovie for iPhone</h2>": {
+                "bbox": [
+                    35.47317123413086,
+                    187.52239990234375,
+                    366.6329345703125,
+                    201.45599365234375
+                ],
+                "text": "<p>app on your phone, free of charge to use</p>"
+            },
+            "<h2>Filmora Go</h2>": {
+                "bbox": [
+                    35.47317123413086,
+                    261.3524169921875,
+                    308.4862365722656,
+                    288.2460021972656
+                ],
+                "text": "<p>app on your phone, free version available (shows their logo), or their pro \nversion which is currently £4.99 per month (they also offer deals if you pay for a whole \nyear at a time, currently £29.49 per year)\n</p>"
+            },
+            "<h2>Adobe Premiere Pro</h2>": {
+                "bbox": [
+                    35.47317123413086,
+                    211.52239990234375,
+                    261.5711975097656,
+                    251.38136291503906
+                ],
+                "text": "<p>video editor for all platforms (Windows, Mac etc) as well as an \napp. Currently £19.97 per month, read more <a href=\"https://www.adobe.com/uk/products/premiere.html?gclid=CjwKCAjw2uf2BRBpEiwA31VZj4_EXBi0ruMeTz2gMuCMGEiTTNItXFsmM1tN4A4vAUWMpF-_Wv98cRoCC1QQAvD_BwE&sdid=88X75SKR&mv=search&ef_id=CjwKCAjw2uf2BRBpEiwA31VZj4_EXBi0ruMeTz2gMuCMGEiTTNItXFsmM1tN4A4vAUWMpF-_Wv98cRoCC1QQAvD_BwE:G:s&s_kwcid=AL!3085!3!340721779838!e!!\">here</a></p>"
+            },
+            "<h2>Shotcut</h2>": {
+                "bbox": [
+                    35.47317123413086,
+                    298.3124084472656,
+                    148.94898986816406,
+                    325.2060241699219
+                ],
+                "text": "<p>free video editor for Windows, Mac and Linux. Read more here: <a href=\"https://shotcut.org/\">https://shotcut.org/</a></p>"
+            }
+},
+{
+	"<h2>Antenna International</h2>": {
+                "bbox": [
+                    35.47317123413086,
+                    148.762451171875,
+                    450.237060546875,
+                    162.696044921875
+                ],
+                "text": "<p><a href=\"https://www.antennainternational.com/about/\">https://www.antennainternational.com/about/</a></p>"
+            },
+            "<h2>ATS heritage</h2>": {
+                "bbox": [
+                    35.47317123413086,
+                    172.64239501953125,
+                    337.93695068359375,
+                    186.57598876953125
+                ],
+                "text": "<p><a href=\"http://ats-heritage.co.uk/\">http://ats-heritage.co.uk/</a></p>"
+            },
+            "<h2>Guide ID</h2>": {
+                "bbox": [
+                    35.47317123413086,
+                    196.64239501953125,
+                    442.28741455078125,
+                    210.57598876953125
+                ],
+                "text": "<p><a href=\"http://www.guideid.co.uk/site/VisitorGuiding\">http://www.guideid.co.uk/site/VisitorGuiding</a></p>"
+            },
+            "<h2>Orpheo</h2>": {
+                "bbox": [
+                    35.48157501220703,
+                    220.61985778808594,
+                    338.62701416015625,
+                    234.58131408691406
+                ],
+                "text": "<p><a href=\"https://orpheogroup.com/\">https://orpheogroup.com/</a></p>"
+            },
+            "<h2>Tonevelt</h2>": {
+                "bbox": [
+                    35.47317123413086,
+                    244.55242919921875,
+                    350.33660888671875,
+                    258.48602294921875
+                ],
+                "text": "<p><a href=\"http://www.tonwelt.com/en\">http://www.tonwelt.com/en</a></p>"
+            }
+},
+{
+	"<h2>360 videos</h2>": {
+                "bbox": [
+                    26.496000289916992,
+                    121.69693756103516,
+                    101.95074462890625,
+                    137.99923706054688
+                ],
+                "glossary": {
+                    "360 videos": "a simulated virtual environment, also known as immersive videos or 360-degree videos, are video recordings of a real-world panorama, where the view in every direction is recorded at the same time, shot using an omnidirectional camera or a collection of cameras. This form of virtual reality places more control in the hands of the creator rather than the consumer.",
+                    "VR": "virtual reality is an immersive computing technology that creates perceptions of a 3-dimensional virtual environment from 2-dimensional imagery. This technology enables consumer navigation and interaction within the environment. "
+                },
+                "text": "<p>360 videos, also known as immersive videos or 360-degree videos, are video recordings \nof a real world panorama, where the view in every direction is recorded at the same \ntime, shot using an omnidirectional camera or a collection of cameras.\n<strong>Where to Watch VR 360 Content:\n</strong></p>"
+            },
+            "<h2>Oculus Experience</h2>": {
+                "bbox": [
+                    26.496000289916992,
+                    221.89239501953125,
+                    139.16893005371094,
+                    235.82598876953125
+                ],
+                "text": "<p></p>"
+            },
+            "<h2>YouTube Three Sixty</h2>": {
+                "bbox": [
+                    26.496000289916992,
+                    245.89239501953125,
+                    148.09396362304688,
+                    259.82598876953125
+                ],
+                "text": "<p></p>"
+            },
+            "<h2>Facebook Three Sixty Video Feeds</h2>": {
+                "bbox": [
+                    26.496000289916992,
+                    269.79241943359375,
+                    223.1494598388672,
+                    283.72601318359375
+                ],
+                "text": "<p></p>"
+            },
+            "<h2>Vrideo Immersion</h2>": {
+                "bbox": [
+                    26.496000289916992,
+                    293.79241943359375,
+                    134.08062744140625,
+                    307.72601318359375
+                ],
+                "text": "<p></p>"
+            },
+            "<h2>LittlStar</h2>": {
+                "bbox": [
+                    26.496000289916992,
+                    317.79241943359375,
+                    84.9920654296875,
+                    331.72601318359375
+                ],
+                "text": "<p></p>"
+            },
+            "<h2>Jaunt VR</h2>": {
+                "bbox": [
+                    26.496000289916992,
+                    341.67242431640625,
+                    88.12837219238281,
+                    355.60601806640625
+                ],
+                "text": "<p></p>"
+            }
+}]

@@ -60,7 +60,7 @@ def analyze_text_block():
 def add_case_study_info():
     case_studies[key]['description'] = value
     h2 = soup.new_tag('h2')
-    h2.string = key
+    h2.string = case_studies[key]['case_name']
     case_studies[key]['html_name'] = str(h2)
 
 

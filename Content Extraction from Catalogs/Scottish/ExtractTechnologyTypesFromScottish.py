@@ -117,7 +117,7 @@ def analyze_suplier(span):
         add_suplier_to_technology_type()
     # Start a new suplier.
     h2 = soup.new_tag('h2')
-    h2.string = span['text']
+    h2.string = span['text'].strip()
     suplier_name = str(h2)
     suplier = {'bbox': span['bbox']}
     suplier = check_for_glossary(suplier, suplier_name)
