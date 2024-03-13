@@ -4,7 +4,7 @@ from pprint import pprint
 from bs4 import BeautifulSoup
 import re
 import pdfplumber
-
+from CommonFunctions import compare_patterns, get_corresponding_link, extract_table
 """
 Meaning of 'descender' in span 
 ----------------------
@@ -27,11 +27,6 @@ below the baseline.
 scottish_catalog = "../../Catalogs/Catalogue Scottish.pdf"
 scottish_patterns = json.load(open("Scottish_Patterns.json", "r"))
 soup = BeautifulSoup('<html></html>', 'html.parser')
-
-
-def compare_patterns(span, patterns):
-    return (span['color'] == patterns['color'] and span['font'] == patterns['font'] and
-            abs(span['size'] - patterns['size']) < 2.5)
 
 
 def check_span_type(span, span_pattern, is_title=False):
@@ -169,19 +164,7 @@ def analyze_text(span):
         tag.string = span['text']
         span_text = str(tag)
     elif check_span_type(span, scottish_patterns["Hyperlinks"]):
-        # It will get the hyperlinks from the current page and get the one that matches the span text
-        # based on the coordinates.
-        for link in doc[page_number].get_links():
-            if 'uri' in link.keys():
-                rect = fitz.Rect(link['from'])
-                words = doc[page_number].get_text("words", clip=rect)
-                link_text = " ".join(w[4] for w in words)
-                # If the text that contains the link matches the span text, it will add the hyperlink html tags.
-                if link_text == span['text'].strip():
-                    tag = soup.new_tag('a', href=link['uri'])
-                    tag.string = link_text
-                    span_text = str(tag)
-                    break
+        span_text = get_corresponding_link(span, doc, page_number)
 
     return span_text
 
@@ -204,7 +187,7 @@ def add_break_line_to_text_if_needed(span, span_index, line, bbox):
     if span['bbox'][3] == bbox[3] and \
             span_index == len(line['spans']) - 1 and not block_belongs_to_bullet_list:
         # Adding a break line at the end of each paragraph
-        add_info_to_text("\n")
+        add_info_to_text("<br>")
 
 
 def analyze_span(line_index, line, block, skip):
@@ -253,33 +236,9 @@ def analyze_table_page_133():
     table_bbox = (36.40800094604492, 435.0013122558594,
                   492.72479248046875, 645.5327758789062)
 
-    with pdfplumber.open(scottish_catalog) as pdf:
-        cropped_page = pdf.pages[133].crop(table_bbox)
-        table = cropped_page.extract_tables()[0]
+    html_table = extract_table(133, table_bbox, scottish_catalog)
 
-        html_table = soup.new_tag('table', border='1')
-
-        first_row = table[0]
-        remaining_rows = table[1:]
-
-        # The first row represents the table header.
-        tr = soup.new_tag('tr')
-        for cell in first_row:
-            th = soup.new_tag('th')
-            th.string = cell
-            tr.append(th)
-        html_table.append(tr)
-
-        for row in remaining_rows:
-            tr = soup.new_tag('tr')
-            # The first column also represents the table header (index == 0).
-            for index, cell in enumerate(row):
-                cell_tag = soup.new_tag('th') if index == 0 else soup.new_tag('td')
-                cell_tag.string = cell
-                tr.append(cell_tag)
-            html_table.append(tr)
-
-    add_info_to_text(str(html_table))
+    add_info_to_text(html_table)
 
 
 def analyze_normal_block(block, skip):

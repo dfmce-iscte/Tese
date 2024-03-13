@@ -1,0 +1,366 @@
+{
+    "1": {
+        "case_name": "Historic Royal Palaces",
+        "type_of_suplier": "Attraction",
+        "type_of_service": "Online guided tour",
+        "technologies": [
+            "YouTube",
+            "Website",
+            "Video editing"
+        ],
+        "page": [
+            13
+        ]
+    },
+    "2": {
+        "case_name": "Dunfermline Tours",
+        "type_of_suplier": "Walking tour",
+        "type_of_service": "Website-based walking tours",
+        "technologies": [
+            "Soundcloud",
+            "Spotify",
+            "Wordpress",
+            "Mapbox",
+            "Social media"
+        ],
+        "page": [
+            14,
+            15
+        ]
+    },
+    "3": {
+        "case_name": "SENSEcity Walks Glasgow",
+        "type_of_suplier": "Walking tour",
+        "type_of_service": "Walking tour app with AR",
+        "technologies": [
+            "SENSEcity",
+            "Augmented reality"
+        ],
+        "page": [
+            16
+        ]
+    },
+    "4": {
+        "case_name": "Brilliant Tours, Liverpool",
+        "type_of_suplier": "Walking tour and private car tours",
+        "type_of_service": "Live walking tours and private car tours",
+        "technologies": [
+            "Booking platforms",
+            "Rezdy",
+            "Bokun",
+            "Contactless payment",
+            "PPE",
+            "Social distancing",
+            "Vox"
+        ],
+        "page": [
+            17,
+            19
+        ]
+    },
+    "5": {
+        "case_name": "Outer Hebrides Trail",
+        "type_of_suplier": "Destination",
+        "type_of_service": "Virtual tour using an app",
+        "technologies": [
+            "GeoTourist",
+            "Splashmap",
+            "Social media",
+            "QR codes"
+        ],
+        "page": [
+            20,
+            21
+        ]
+    },
+    "6": {
+        "case_name": "National Gallery, London",
+        "type_of_suplier": "Attraction",
+        "type_of_service": "Data analytics and visitor flow",
+        "technologies": [
+            "Analytics Engine Ltd",
+            "Cisco Meraki"
+        ],
+        "page": [
+            22
+        ]
+    },
+    "7": {
+        "case_name": "Glasgow Taxi",
+        "type_of_suplier": "Transport",
+        "type_of_service": "Transport hygiene",
+        "technologies": [
+            "Supagard"
+        ],
+        "page": [
+            23
+        ]
+    },
+    "8": {
+        "case_name": "F\u00eate des Lumi\u00e8res",
+        "type_of_suplier": "Event",
+        "type_of_service": "Festival mobile app",
+        "technologies": [
+            "Mapbox",
+            "Mobile app"
+        ],
+        "page": [
+            24
+        ]
+    },
+    "9": {
+        "case_name": "Seafood from Scotland",
+        "type_of_suplier": "Event",
+        "type_of_service": "Online event",
+        "technologies": [
+            "YOURgb",
+            "Zoom"
+        ],
+        "page": [
+            25
+        ]
+    },
+    "10": {
+        "case_name": "Go Rural",
+        "type_of_suplier": "Event",
+        "type_of_service": "Livestreaming",
+        "technologies": [
+            "Facebook Live",
+            "Social media",
+            "Live streaming",
+            "equipment"
+        ],
+        "page": [
+            26,
+            27
+        ]
+    },
+    "11": {
+        "case_name": "Salisbury Cathedral",
+        "type_of_suplier": "Attraction",
+        "type_of_service": "Virtual 360 degree tour",
+        "technologies": [
+            "Seekbeak",
+            "360-degree video"
+        ],
+        "page": [
+            28,
+            29
+        ]
+    },
+    "12": {
+        "case_name": "Pitlochry Dam",
+        "type_of_suplier": "Attraction",
+        "type_of_service": "Virtual tour using a progressive web app",
+        "technologies": [
+            "Antenna International",
+            "PWA",
+            "QR codes"
+        ],
+        "page": [
+            30
+        ]
+    },
+    "13": {
+        "case_name": "British Museum",
+        "type_of_suplier": "Attraction",
+        "type_of_service": "Virtual museum tours and podcast",
+        "technologies": [
+            "Google Street View",
+            "Soundcloud",
+            "YouTube",
+            "Audio-guide page",
+            "Podcast page"
+        ],
+        "page": [
+            31,
+            32
+        ]
+    },
+    "14": {
+        "case_name": "Peregrine Falcon's live webcam",
+        "type_of_suplier": "Event",
+        "type_of_service": "Live web cam stream",
+        "technologies": [
+            "iCode",
+            "Livestreaming page"
+        ],
+        "page": [
+            33,
+            34
+        ]
+    },
+    "15": {
+        "case_name": "Buffalo River Pumpkin Patch",
+        "type_of_suplier": "Experience",
+        "type_of_service": "360 degree experience",
+        "technologies": [
+            "Seekbeak",
+            "Be More Colorful",
+            "Social media"
+        ],
+        "page": [
+            35
+        ]
+    },
+    "16": {
+        "case_name": "Royal Yacht Britannia",
+        "type_of_suplier": "Attraction",
+        "type_of_service": "Audio-guide handsets",
+        "technologies": [
+            "Audio-guides"
+        ],
+        "page": [
+            36
+        ]
+    },
+    "17": {
+        "case_name": "BrewDog Online Bar",
+        "type_of_suplier": "Event",
+        "type_of_service": "Online interactive event",
+        "technologies": [
+            "Zoom"
+        ],
+        "page": [
+            37
+        ]
+    },
+    "18": {
+        "case_name": "Master of Malt",
+        "type_of_suplier": "Distillery",
+        "type_of_service": "360 degree virtual tour video",
+        "technologies": [
+            "YouTube",
+            "GoProFusion",
+            "Video equipment",
+            "360-degree video",
+            "Video editing"
+        ],
+        "page": [
+            38,
+            39
+        ]
+    },
+    "19": {
+        "case_name": "Keukenhof",
+        "type_of_suplier": "Event",
+        "type_of_service": "Online videos, and 360 degree videos",
+        "technologies": [
+            "YouTube",
+            "Social media",
+            "Adobe Premiere Pro",
+            "360 video"
+        ],
+        "page": [
+            40
+        ]
+    },
+    "20": {
+        "case_name": "VisitBritain",
+        "type_of_suplier": "Destination",
+        "type_of_service": "Virtual trade shows",
+        "technologies": [
+            "6Connex"
+        ],
+        "page": [
+            41
+        ]
+    },
+    "21": {
+        "case_name": "Street Buddha Tours, Lisbon",
+        "type_of_suplier": "Walking tour",
+        "type_of_service": "Virtual walking tour",
+        "technologies": [
+            "Instagram Live",
+            "Zoom"
+        ],
+        "page": [
+            42
+        ]
+    },
+    "22": {
+        "case_name": "Downtown CityMaps",
+        "type_of_suplier": "Destination",
+        "type_of_service": "Visitor map using AR",
+        "technologies": [
+            "QR code generator",
+            "BYOD",
+            "Augmented Reality",
+            "page"
+        ],
+        "page": [
+            43,
+            45
+        ]
+    },
+    "23": {
+        "case_name": "The Beatles Story",
+        "type_of_suplier": "Attraction",
+        "type_of_service": "Audio-guide handsets",
+        "technologies": [
+            "Antenna International",
+            "Audio-guides",
+            "QR codes"
+        ],
+        "page": [
+            46,
+            47
+        ]
+    },
+    "24": {
+        "case_name": "Scotland Starts Here",
+        "type_of_suplier": "Destination",
+        "type_of_service": "Website, podcast and app",
+        "technologies": [
+            "Whereverly Ltd",
+            "Bespoken Media",
+            "Podcast",
+            "Social media",
+            "Website"
+        ],
+        "page": [
+            48,
+            51
+        ]
+    },
+    "25": {
+        "case_name": "Rock and Roll Hall of Fame",
+        "type_of_suplier": "Attraction",
+        "type_of_service": "Online ticketing and interactive exhibits",
+        "technologies": [
+            "Ticketure",
+            "Touch screens",
+            "Audio-guides",
+            "QR codes"
+        ],
+        "page": [
+            52,
+            54
+        ]
+    },
+    "26": {
+        "case_name": "Red Bus Bistro",
+        "type_of_suplier": "Event",
+        "type_of_service": "Online event",
+        "technologies": [
+            "Zoom"
+        ],
+        "page": [
+            55
+        ]
+    },
+    "27": {
+        "case_name": "Cinque Terre Card",
+        "type_of_suplier": "Destination",
+        "type_of_service": "Destination pass and app",
+        "technologies": [
+            "App",
+            "Online booking",
+            "QR codes"
+        ],
+        "page": [
+            56,
+            57
+        ]
+    }
+}

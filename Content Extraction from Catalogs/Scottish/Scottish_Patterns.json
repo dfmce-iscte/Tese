@@ -6,6 +6,20 @@
     "font": "TrebuchetMS-Bold",
     "size": 32.040000915527344
   },
+  "Case_Study_Title": {
+    "color": 5329233,
+    "descender": -0.22216796875,
+    "flags": 16,
+    "font": "TrebuchetMS-Bold",
+    "size": 24.0
+  },
+  "Italic_Title": {
+    "color": 5329233,
+    "descender": -0.22216796875,
+    "flags": 18,
+    "font": "Trebuchet-BoldItalic",
+    "size": 20.040000915527344
+  },
   "Second_Title": {
     "color": 7806760,
     "descender": -0.22216796875,

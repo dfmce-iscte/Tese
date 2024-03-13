@@ -1,7 +1,6 @@
 import os
 import fitz  # PyMuPDF library
-from PIL import Image
-
+from PIL import Image, ImageOps
 from tqdm import tqdm  # tqdm library for progress tracking
 
 # Specify the directory containing PDF files
@@ -40,23 +39,28 @@ def is_image_almost_black(pixels):
 
 # Extract images from PDF and returns the directory containing the images
 def extract_images_from_pdf(pdf_path):
-    pdf_name = pdf_path.split("/")[2][:-4]  # Remove ".pdf" extension
+    # pdf_name = pdf_path.split("/")[2][:-4]  # Remove ".pdf" extension
+    pdf_name = pdf_path[:-4]  # Remove ".pdf" extension
 
     # Create a directory for the PDF's images
-    pdf_image_dir = os.path.join(pdf_path[:-4])
+    # pdf_image_dir = os.path.join(pdf_path[:-4])
+    # pdf_image_dir = "Images"
     # pdf_image_dir = workdir
-    os.makedirs(pdf_image_dir, exist_ok=True)
+    # os.makedirs(pdf_image_dir, exist_ok=True)
 
     doc = fitz.Document(pdf_path)  # Open the PDF document
 
     image_count = 0  # Counter for extracted images
 
     for i in range(len(doc)):
+        if i != 0: continue #page number
         for image in doc.get_page_images(i):
+            print("IMAGE FOUND!")
             img = doc.extract_image(image[0])
             image_ext = img["ext"]
             image_data = img["image"]
-            image_path = os.path.join(pdf_image_dir, f"{pdf_name}_{image_count}.{image_ext}")
+            image_path = f"{pdf_name}_{image_count}.{image_ext}"
+            # image_path = os.path.join(pdf_image_dir, f"{pdf_name}_{image_count}.{image_ext}")
             with open(image_path, 'wb') as f:
                 f.write(image_data)
             image_count += 1
@@ -66,18 +70,32 @@ def extract_images_from_pdf(pdf_path):
                 convert_jpx_to_jpeg(image_path, new_img_path)
                 image_path = new_img_path
 
-            if is_image_almost_black(get_pixels_width_height(image_path)):
-                with open('images_to_fix.txt', 'a+') as f:
-                    f.write(image_path + "\n")
+            # if is_image_almost_black(get_pixels_width_height(image_path)):
+            #     with open('images_to_fix.txt', 'a+') as f:
+            #         f.write(image_path + "\n")
 
     # print("Extracted %d pictures from %s.pdf" % (image_count, pdf_name))
-    return pdf_image_dir
+    # return pdf_image_dir
+    return "pdf_image_dir"
 
+path = "C:\\Users\Diogo Cosme\Documents\ISCTE\Tese\Reports\Paper Conference\Call_for_Papers_RCIS2024.pdf"
+path = path.replace("\\", "/")
+print(path)
+extract_images_from_pdf(path)
 # # Loop through each file in the directory
 # for each_path in os.listdir(workdir):
 #     if each_path.endswith(".pdf"):  # Check if the file is a PDF
 #         extract_images_from_pdf(each_path)
-#
+
 # # Print the image counts for each PDF
 # for pdf_name, count in image_counts.items():
 #     print("Extracted %d pictures from %s.pdf" % (count, pdf_name))
+# image_path = "C:\\Users\Diogo Cosme\Documents\ISCTE\Tese\Reports\Paper Conference\Call_for_Papers_RCIS2024.pdf"
+# image_path = image_path.replace("\\", "/")
+# image = Image.open(image_path)
+#
+# # Invert the colors
+# inverted_image = ImageOps.invert(image)
+#
+# # Save the inverted image
+# inverted_image.save(image_path)
