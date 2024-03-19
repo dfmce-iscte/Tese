@@ -1,0 +1,44 @@
+{
+  "Category": {
+    "color": [3036310],
+    "descender": -0.2685546875,
+    "flags": 4,
+    "font": "Calibri",
+    "size": 12.960000038146973
+  },
+  "SubCategory": {
+    "color": [1980259],
+    "descender": -0.2685546875,
+    "flags": 4,
+    "font": "Calibri",
+    "size": 12.0
+  },
+  "SubSubCategory": {
+    "color": [1980259, 3036310],
+    "descender": -0.2685546875,
+    "flags": 4,
+    "font": "Calibri-Light",
+    "size": 12.0
+  },
+  "STT_Application": {
+    "color": [0],
+    "descender": -0.2685546875,
+    "flags": 20,
+    "font": "Calibri-Bold",
+    "size": 12.0
+  },
+  "Application_Description": {
+    "color": [0],
+    "descender": -0.2685546875,
+    "flags": 4,
+    "font": "Calibri",
+    "size": 12.0
+  },
+  "Hyperlink": {
+    "color": [287681],
+    "descender": -0.2685546875,
+    "flags": 4,
+    "font": "Calibri",
+    "size": 12.0
+  }
+}

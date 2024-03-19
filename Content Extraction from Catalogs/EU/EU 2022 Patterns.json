@@ -1,0 +1,44 @@
+{
+  "Category": {
+    "color": [16766232],
+    "descender": -0.29296875,
+    "flags": 16,
+    "font": "OpenSans-Bold",
+    "size": 13.0
+  },
+  "SubCategory": {
+    "color": [1393044],
+    "descender": -0.29296875,
+    "flags": 16,
+    "font": "OpenSans-Bold",
+    "size": 11.0
+  },
+  "SubSubCategory": {
+    "color": [0],
+    "descender": -0.29296875,
+    "flags": 16,
+    "font": "OpenSans-Bold",
+    "size": 10.5
+  },
+  "STT_Application": {
+    "color": [0],
+    "descender": -0.29296875,
+    "flags": 16,
+    "font": "OpenSans-Bold",
+    "size": 10.5
+  },
+  "Application_Description": {
+    "color": [0],
+    "descender": -0.29296875,
+    "flags": 0,
+    "font": "OpenSans",
+    "size": 10.5
+  },
+  "Hyperlink": {
+    "color": [1393044],
+    "descender": -0.29296875,
+    "flags": 0,
+    "font": "OpenSans-Light",
+    "size": 10.5
+  }
+}

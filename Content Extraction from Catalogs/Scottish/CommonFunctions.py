@@ -6,8 +6,8 @@ soup = BeautifulSoup('<html></html>', 'html.parser')
 
 
 def compare_patterns(span, patterns):
-    return (span['color'] == patterns['color'] and span['font'] == patterns['font'] and
-            abs(span['size'] - patterns['size']) < 2.5)
+    return (span['color'] in patterns['color'] and span['font'] == patterns['font'] and
+            abs(span['size'] - patterns['size']) <= 2.5)
 
 
 def get_corresponding_link(span, document, number_of_page):
