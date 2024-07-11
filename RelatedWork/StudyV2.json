@@ -1,0 +1,98 @@
+{
+  "Automatic Detection of Inconsistencies and Hierarchical Topic Classification for Open-Domain Chatbots": {
+    "Q1": 3,
+    "Q3": 2,
+    "Q4": 3,
+    "Q5": 2,
+    "Q6": 3,
+    "Q7": 2
+  },
+  "Cicognini at ACTI: Analysis of techniques for conspiracies individuation in Italian": {
+    "Q1": 3,
+    "Q3": 2,
+    "Q4": 0,
+    "Q5": 1,
+    "Q6": 2,
+    "Q7": 2
+  },
+  "Query-Focused Submodular Demonstration Selection for In-Context Learning in Large Language Models": {
+    "Q1": 3,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 1,
+    "Q6": 3,
+    "Q7": 2
+  },
+  "MetRoBERTa: Leveraging Traditional Customer Relationship Management Data to Develop a Transit-Topic-Aware Language Model": {
+    "Q1": 3,
+    "Q3": 3,
+    "Q4": 3,
+    "Q5": 3,
+    "Q6": 3,
+    "Q7": 3
+  },
+  "Semi-Automatic Topic Discovery and Classification for Epidemic Intelligence via Large Language Models": {
+    "Q1": 3,
+    "Q3": 2,
+    "Q4": 3,
+    "Q5": 2,
+    "Q6": 3,
+    "Q7": 2
+  },
+  "ACTI at EVALITA 2023:Automatic Conspiracy Theory Identification Task Overview": {
+    "Q1": 3,
+    "Q3": 3,
+    "Q4": 3,
+    "Q5": 3,
+    "Q6": 3,
+    "Q7": 3
+  },
+  "LAraBench: Benchmarking Arabic AI with Large Language Models": {
+    "Q1": 3,
+    "Q3": 3,
+    "Q4": 3,
+    "Q5": 3,
+    "Q6": 3,
+    "Q7": 3
+  },
+  "Leveraging Large Language Models for Topic Classification in the Domain of Public Affairs": {
+    "Q1": 3,
+    "Q3": 2,
+    "Q4": 3,
+    "Q5": 2,
+    "Q6": 3,
+    "Q7": 2
+  },
+  "Improving short text classification with augmented data using GPT-3": {
+    "Q1": 3,
+    "Q3": 0,
+    "Q4": 3,
+    "Q5": 2,
+    "Q6": 2,
+    "Q7": 1
+  },
+  "ChatGPT Label: Comparing the Quality of Human-Generated and LLM-Generated Annotations in Low-Resource Language NLP Tasks": {
+    "Q1": 3,
+    "Q3": 3,
+    "Q4": 3,
+    "Q5": 3,
+    "Q6": 3,
+    "Q7": 3
+  },
+  "Classification of intent in moderating online discussions: An empirical evaluation": {
+    "Q1": 3,
+    "Q3": 2,
+    "Q4": 3,
+    "Q5": 2,
+    "Q6": 3,
+    "Q7": 2
+  },
+  "Advancing CSR Theme and Topic Classification: LLMs and Training Enhancement Insights": {
+    "Q1": 3,
+    "Q3": 2,
+    "Q4": 3,
+    "Q5": 2,
+    "Q6": 3,
+    "Q7": 2
+  }
+}

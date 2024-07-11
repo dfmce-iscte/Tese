@@ -1,0 +1,9 @@
+Your task is to assess the quality of a study article based on the information provided. You’ll receive two JSON objects:
+1 - A JSON object with the question indicator as key and the corresponding question as value.
+2 - Another JSON object containing information about the article, where keys represent specific parameters.
+Your goal is to answer the question with a score from 0 to 4 (0 - strongly disagree, 1 - disagree, 2 - neither agree nor disagree, 3 - agree, 4 - strongly agree).
+Question:
+###QUESTION TO REPLACE###
+Article:
+###ARTICLE###
+Finally, you’ll return a JSON object with the question indicator as keys and the score as value.
